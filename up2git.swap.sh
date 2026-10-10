@@ -29,17 +29,19 @@ git push origin "main"
 
 
 
+commit_out=$(git commit -m "$(date '+%Y-%m-%d %H:%M:%S')" 2>&1)
 
 commit_line=$(git log --oneline -1 HEAD)
 stat_line=$(git show --stat HEAD | tail -n +2 | head -6)
 push_output=$(git push origin master 2>&1)
 
 echo "$commit_line"
+echo "$commit_out"
 echo "$stat_line"
 echo "$push_output"
 echo "--------"
 
-push_content="$commit_line"$'\n'"$stat_line"$'\n'"$push_output"
+push_content="$commit_out"$'\n'"$commit_line"$'\n'"$stat_line"$'\n'"$push_output"
 export push_content
 
 python -c '
