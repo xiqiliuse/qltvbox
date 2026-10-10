@@ -1,0 +1,16 @@
+{
+    "urls": [
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/饭太硬/api.json",
+            "name": "饭太硬可用"
+        },
+        {
+            "url": "https://gh-proxy.comp/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/OK/api.json",
+            "name": "OK解析失败"
+        },
+        {
+            "url": "1111",
+            "name": "111"
+        }
+    ]
+}
