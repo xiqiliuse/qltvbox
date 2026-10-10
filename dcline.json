@@ -1,7 +1,11 @@
 {
     "storeHouse": [
         {
-            "sourceName": "👍|推荐3号自动更新",
+            "sourceName": "👍|Github自动更新",
+            "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/xiqiliuse/qltvbox/refs/heads/main/tvbox.json"
+        },
+        {
+            "sourceName": "👍|gitee自动更新",
             "sourceUrl": "https://gitee.com/jiangnandao/tvboxline/raw/master/tvbox.json"
         },
         {
