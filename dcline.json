@@ -9,12 +9,12 @@
             "sourceUrl": "https://gitee.com/jiangnandao/tvboxline/raw/master/tvbox.json"
         },
         {
-            "sourceName": "gitcode",
-            "sourceUrl": "https://raw.gitcode.com/xiqiliuse/tvboxup/raw/main/TVBOXGitcode/tvbox.json"
+            "sourceName": "Lightconer",
+            "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/main/output/多仓订阅.json"
         },
         {
-            "sourceName": "XXxhz.json",
-            "sourceUrl": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xiqiliuse/tvbox/refs/heads/main/xhz.json"
+            "sourceName": "gitcode",
+            "sourceUrl": "https://raw.gitcode.com/xiqiliuse/tvboxup/raw/main/TVBOXGitcode/tvbox.json"
         },
         {
             "sourceName": "XX多线路11.json",

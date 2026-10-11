@@ -91,8 +91,8 @@ FALLBACK_URLS = [
 FIXED_LINES = [
     {"url": "https://gh-proxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/饭太硬/api.json", 
     "name": "饭太硬"},
-    {"url": "https://gh-proxy.comp/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/OK/api.json",
-    "name": "OK"},
+    {"url": "https://gh-proxy.com/https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/main/output/单仓聚合.json",
+    "name": "Lightconer"},
     {"url": "https://gh-proxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/摸鱼儿/api.json",
     "name": "摸鱼儿"}
 ]
