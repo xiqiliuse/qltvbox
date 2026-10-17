@@ -1,223 +1,386 @@
-{
-  "urls": [
-    {
-      "name": "SVIP📚在线",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json"
-    },
-    {
-      "name": "备用📚在线",
-      "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json"
-    },
-    {
-      "name": "VIP📚在线",
-      "url": "https://jiekou.netlify.app/svip.json"
-    },
-    {
-      "name": "小米📚在线",
-      "url": "http://miqk.cc/小米/DEMO.json"
-    },
-    {
-      "name": "动漫城📚在线",
-      "url": "https://www.yingm.cc/dm/dm.json"
-    },
-    {
-      "name": "喵影视📚在线",
-      "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json"
-    },
-    {
-      "name": "小脑斧📚在线",
-      "url": "https://6492.kstore.space/xnf/xnf.json"
-    },
-    {
-      "name": "小虎斑📚在线",
-      "url": "http://hb.小虎斑.site:25252/仅供测试"
-    },
-    {
-      "name": "潇洒📚在线",
-      "url": "https://9877.kstore.space/AnotherD/api.json"
-    },
-    {
-      "name": "肥猫📚在线",
-      "url": "http://肥猫.com"
-    },
-    {
-      "name": "欧歌📚在线",
-      "url": "https://欧歌.v.nxog.top/m/"
-    },
-    {
-      "name": "乐哥📚在线",
-      "url": "https://乐哥.xyz/TV/Zy.json"
-    },
-    {
-      "name": "老虎📚在线",
-      "url": "http://tv.laohu.cool/tvbox.json"
-    },
-    {
-      "name": "Clun📚在线",
-      "url": "https://clun.top/box.json"
-    },
-    {
-      "name": "O  K📚在线",
-      "url": "http://ok321.top/ok"
-    },
-    {
-      "name": "俊佬📚在线",
-      "url": "http://home.jundie.top:81/top98.json"
-    },
-    {
-      "name": "短剧📚在线",
-      "url": "http://74.120.175.78/JK/XYQTVBox/dj.json"
-    },
-    {
-      "name": "驸马📚在线",
-      "url": "http://fmys.top/fmys.json"
-    },
-    {
-      "name": "南风📚在线",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
-    },
-    {
-      "name": "二小📚在线",
-      "url": "http://tvbox.王二小放牛娃.top"
-    },
-    {
-      "name": "毒盒📚在线",
-      "url": "https://xn--8owq8u.com/tv/"
-    },
-    {
-      "name": "心魔📚在线",
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json"
-    },
-    {
-      "name": "D佬📚在线",
-      "url": "http://2883.kstore.space/nzk/nzk0722.json"
-    },
-    {
-      "name": "小马📚在线",
-      "url": "http://szyyds.cn/tv/x.json"
-    },
-    {
-      "name": "星辰📚在线",
-      "url": "https://fmbox.cc"
-    },
-    {
-      "name": "龙伊📚在线",
-      "url": "https://龙伊.top"
-    },
-    {
-      "name": "寳盒📚在线",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json"
-    },
-    {
-      "name": "挺好📚在线",
-      "url": "https://ztha.top/TVBox/thdjk.json"
-    },
-    {
-      "name": "传说📚在线",
-      "url": "https://chuanshuo.77blog.cn/tv.json"
-    },
-    {
-      "name": "多多📚在线",
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/leevi0709/one/main/jsm.json"
-    },
-    {
-      "name": "分享📚在线",
-      "url": "http://hucongrong.web3v.work/风水/fxz/fxz.json"
-    },
-    {
-      "name": "蓝天📚在线",
-      "url": "https://gitee.com/lukei7/lib/raw/Luck/%E8%87%AA%E5%BB%BA.json"
-    },
-    {
-      "name": "青龙📚在线",
-      "url": "https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json"
-    },
-    {
-      "name": "黄金📚在线",
-      "url": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjys.free.json"
-    },
-    {
-      "name": "道长📚在线",
-      "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json"
-    },
-    {
-      "name": "PG📚在线",
-      "url": "https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json"
-    },
-    {
-      "name": "真訫📚在线",
-      "url": "https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json"
-    },
-    {
-      "name": "琉芸📚在线",
-      "url": "https://git.acwing.com/999/tvbox/-/raw/main/%E5%BD%B1%E8%A7%86.json"
-    },
-    {
-      "name": "月光📚在线",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/max.json"
-    },
-    {
-      "name": "雷霆📚在线",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lemj.json"
-    },
-    {
-      "name": "小凯📚在线",
-      "url": "https://jihulab.com/jyqhkd/kd/-/raw/main/kai.json"
-    },
-    {
-      "name": "公子📚在线",
-      "url": "http://xn--b9w.l5.ca/"
-    },
-    {
-      "name": "短剧📚在线",
-      "url": "http://jiduo.3116598.xyz"
-    },
-    {
-      "name": "特别📚在线",
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/drpys/jsm.json"
-    },
-    {
-      "name": "蜂蜜📚在线",
-      "url": "https://qu.ax/uanw.json"
-    },
-    {
-      "name": "传说📚在线",
-      "url": "http://tjf1100.serv00.net/"
-    },
-    {
-      "name": "多多📚在线",
-      "url": "https://yydsys.top/duo"
-    },
-    {
-      "name": "刺刺📚在线",
-      "url": "https://d.kstore.dev/download/8975/刺刺专用音乐接口.json"
-    },
-    {
-      "name": "剧场📚在线",
-      "url": "https://乐哥.xyz/dj.json"
-    },
-    {
-      "name": "听书📚在线",
-      "url": "https://乐哥.xyz/Ting/Tshu.json"
-    },
-    {
-      "name": "CandyMu📚在线",
-      "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json"
-    },
-    {
-      "name": "欧歌备用📚在线",
-      "url": "https://xn--biib-rp5imh.v.nxog.top/apitv.php"
-    },
-    {
-      "name": "各种网盘📚在线",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json"
-    },
-    {
-      "name": "请勿贩卖📚在线",
-      "url": "http://zhangqun1818.serv00.net/zq/api.json"
-    }
-  ]
-}
-<div style="text-align: center;"><div style="position:relative; top:0; margin-right:auto;margin-left:auto; z-index:99999">
+<!DOCTYPE html><html lang="zh-CN" class="overflow-x-clip"> <head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0"><!-- Basic Meta --><title>GitHub加速下载代理 - 快速访问 GitHub 文件</title><meta name="description" content="GitHub Proxy，GitHub加速下载代理服务，支持 Releases、Raw、Archive、clone 等资源下载加速，解决 GitHub下载访问慢的问题。"><meta name="keywords" content="GitHub代理, GitHub加速, GitHub镜像, GitHub下载加速, Releases下载加速, Raw加速, ghproxy, gh-proxy, GitHub proxy,git clone 代理,git clone 加速,github 静态资源加速"><link rel="canonical" href="https://gh-proxy.com/"><meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"><!-- Conditional i18n Alternate Links --><link rel="alternate" hreflang="zh-CN" href="https://gh-proxy.com/"><link rel="alternate" hreflang="en" href="https://gh-proxy.com/en"><link rel="alternate" hreflang="x-default" href="https://gh-proxy.com/"><!-- OpenGraph / Facebook --><meta property="og:type" content="website"><meta property="og:url" content="https://gh-proxy.com/"><meta property="og:title" content="GitHub加速下载代理 - 快速访问 GitHub 文件"><meta property="og:description" content="GitHub Proxy，GitHub加速下载代理服务，支持 Releases、Raw、Archive、clone 等资源下载加速，解决 GitHub下载访问慢的问题。"><meta property="og:image" content="https://gh-proxy.com/favicon.ico"><meta property="og:site_name" content="GitHub Proxy"><!-- Twitter --><meta name="twitter:card" content="summary_large_image"><meta name="twitter:url" content="https://gh-proxy.com/"><meta name="twitter:title" content="GitHub加速下载代理 - 快速访问 GitHub 文件"><meta name="twitter:description" content="GitHub Proxy，GitHub加速下载代理服务，支持 Releases、Raw、Archive、clone 等资源下载加速，解决 GitHub下载访问慢的问题。"><meta name="twitter:image" content="https://gh-proxy.com/favicon.ico"><!-- Favicon & Icons --><link rel="icon" type="image/svg+xml" href="/favicon.svg"><link rel="icon" type="image/x-icon" href="/favicon.ico"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><!-- Mobile App Theme --><meta name="theme-color" media="(prefers-color-scheme: light)" content="#f8fafc"><meta name="theme-color" media="(prefers-color-scheme: dark)" content="#090a0f"><meta name="theme-color" content="#090a0f"><meta name="mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><!-- JSON-LD Structured Data --><script type="application/ld+json">{"@context":"https://schema.org","@type":"SoftwareApplication","name":"GitHub加速下载代理 - 快速访问 GitHub 文件","description":"GitHub Proxy，GitHub加速下载代理服务，支持 Releases、Raw、Archive、clone 等资源下载加速，解决 GitHub下载访问慢的问题。","url":"https://gh-proxy.com/","applicationCategory":"DeveloperApplication","operatingSystem":"All"}</script><!-- External Analytics --><script defer src="https://u.gh-proxy.com/script.js" data-website-id="6e921313-57ba-449f-a15d-5fdb2de35cbf" data-performance="true"></script><script async src="https://www.googletagmanager.com/gtag/js?id=G-YTL8XEY42Z"></script><script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-YTL8XEY42Z');
+</script><!-- Google AdSense -->
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8549247415463520" crossorigin="anonymous"></script><!-- Prevent theme flickering & default to system mode --><script>
+      (function() {
+        try {
+          const theme = localStorage.getItem('ghproxy_theme');
+          const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+          if (theme === 'dark' || (!theme && prefersDark)) {
+            document.documentElement.classList.add('dark');
+          } else {
+            document.documentElement.classList.remove('dark');
+          }
+        } catch (e) {}
+      })();
+    </script><link rel="stylesheet" href="/_astro/about.DSD8XR5Z.css"></head> <body class="bg-slate-50 text-slate-900 dark:bg-[#090a0f] dark:text-zinc-100 min-h-screen flex flex-col font-sans antialiased selection:bg-emerald-500/20 selection:text-emerald-600 dark:selection:bg-emerald-500/30 dark:selection:text-emerald-400 relative transition-colors duration-200 pt-[60px] overflow-x-clip"> <!-- Ambient glowing backgrounds --> <div class="fixed inset-0 pointer-events-none -z-10 overflow-hidden"> <div class="absolute -top-40 left-1/2 -translate-x-1/2 w-[800px] h-[400px] bg-gradient-to-tr from-emerald-500/10 via-cyan-500/5 to-transparent blur-3xl opacity-60 dark:opacity-40"></div> <div class="absolute top-1/3 -right-40 w-[500px] h-[500px] bg-emerald-500/5 blur-3xl rounded-full"></div> </div> <!-- Sticky Navigation --> <nav class="fixed top-0 left-0 w-full h-[60px] bg-slate-900 dark:bg-[#090d16] border-b border-slate-800 z-50 px-4 flex items-center transition-colors"> <div class="max-w-6xl mx-auto w-full h-full flex justify-between items-center relative">  <a href="/" class="flex items-center gap-2.5 h-full no-underline group flex-shrink-0"> <img src="/favicon.svg" alt="GH-Proxy" class="w-8 h-8 group-hover:scale-105 transition-transform shadow-md shadow-emerald-500/20 flex-shrink-0" width="32" height="32"> <div class="flex items-center gap-1.5"> <span class="text-sm sm:text-base font-bold text-white tracking-tight"> GitHub加速 </span> <span class="text-[10px] px-1.5 py-0.5 rounded-full bg-emerald-500/10 text-emerald-400 border border-emerald-500/20 font-mono">v2.0</span> </div> </a>  <div class="hidden md:flex items-center gap-1 h-full">  <a href="https://gh-proxy.com/go/yuncping" target="_blank" rel="noopener noreferrer" class="text-cyan-400 hover:text-cyan-300 font-semibold flex items-center gap-1.5 py-2 px-2.5 rounded-lg hover:bg-cyan-400/10 transition-all text-xs"> <svg class="w-3.5 h-3.5 text-cyan-400" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"> <path d="M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.38-.5-2-1-3-1.072-2.143-.224-4.054 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.153.433-2.294 1-3a2.5 2.5 0 0 0 2.5 2.5z"></path> </svg> <span>靠谱机场评测</span> </a>  <a href="https://gh-proxy.com/go/jujiasu" target="_blank" rel="noopener noreferrer" class="relative inline-flex items-center justify-center p-[1px] rounded-lg overflow-hidden group/rainbow transition-transform hover:scale-105 active:scale-95 shadow-sm mr-1 cursor-pointer">  <span class="absolute inset-0 rainbow-stream-bg opacity-75 blur-[3px] group-hover/rainbow:opacity-100 group-hover/rainbow:blur-[5px] transition-all"></span>  <span class="absolute inset-0 rainbow-stream-bg"></span>  <span class="relative flex items-center gap-1.5 py-1.5 px-2.5 rounded-[7px] bg-slate-900/90 dark:bg-[#090d16]/95 backdrop-blur-md transition-colors group-hover/rainbow:bg-slate-900/70"> <svg class="w-3.5 h-3.5 text-amber-400 group-hover/rainbow:text-yellow-300 transition-colors flex-shrink-0 animate-pulse" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"> <path d="M17.8 19.2 16 11l3.5-3.5C21 6 21.5 4 21 3c-1-.5-3 0-4.5 1.5L13 8 4.8 6.2c-.5-.1-.9.1-1.1.5l-.3.5c-.2.5-.1 1 .3 1.3L9 12l-2 3H4l-1 1 3 2 2 3 1-1v-3l3-2 3.5 5.3c.3.4.8.5 1.3.3l.5-.2c.4-.3.6-.7.5-1.2z"></path> </svg> <span class="text-xs font-bold rainbow-stream-text select-none">
+自用机场推荐
+</span> </span> </a>  <div class="group relative h-full flex items-center"> <button class="text-slate-300 group-hover:text-white font-medium flex items-center gap-1 h-full py-2 px-3 rounded-lg hover:bg-slate-800/60 transition-colors text-xs cursor-pointer"> <span>加速服务</span> <svg class="w-3.5 h-3.5 opacity-60 group-hover:rotate-180 transition-transform" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m6 9 6 6 6-6"></path></svg> </button> <div class="hidden group-hover:flex flex-col absolute top-full left-0 bg-slate-900 border border-slate-800 rounded-2xl shadow-2xl p-2 min-w-[210px] z-50 animate-fadeIn"> <a href="/" class="px-3 py-2 rounded-xl text-xs text-slate-300 hover:text-white hover:bg-slate-800 flex items-center gap-2.5 transition-colors"> <span class="w-2 h-2 rounded-full bg-emerald-500"></span> <span>GitHub 文件加速</span> </a> <a href="/docker" class="px-3 py-2 rounded-xl text-xs text-slate-300 hover:text-white hover:bg-slate-800 flex items-center gap-2.5 transition-colors"> <span class="w-2 h-2 rounded-full bg-cyan-500"></span> <span>Docker 镜像加速</span> </a> <a href="/sourceforge" class="px-3 py-2 rounded-xl text-xs text-slate-300 hover:text-white hover:bg-slate-800 flex items-center gap-2.5 transition-colors"> <span class="w-2 h-2 rounded-full bg-amber-500"></span> <span>SourceForge 加速</span> </a> <a href="/opensheet" class="px-3 py-2 rounded-xl text-xs text-slate-300 hover:text-white hover:bg-slate-800 flex items-center gap-2.5 transition-colors"> <span class="w-2 h-2 rounded-full bg-teal-500"></span> <span>Google 表格转 JSON</span> </a> <div class="h-px bg-slate-800/80 my-1"></div> <a href="/analytics" class="px-3 py-2 rounded-xl text-xs text-slate-300 hover:text-white hover:bg-slate-800 flex items-center gap-2.5 transition-colors"> <span class="w-2 h-2 rounded-full bg-purple-500"></span> <span>节点与流量统计</span> </a> </div> </div>  <a href="/docs" class="text-slate-300 hover:text-white font-medium flex items-center gap-1 h-full py-2 px-3 rounded-lg hover:bg-slate-800/60 transition-colors text-xs"> <span>文档教程</span> </a>  <a href="/blog" class="text-slate-300 hover:text-white font-medium flex items-center gap-1 h-full py-2 px-3 rounded-lg hover:bg-slate-800/60 transition-colors text-xs"> <span>官方博客</span> </a>  <div class="group relative h-full flex items-center"> <button class="text-slate-300 group-hover:text-white font-medium flex items-center gap-1 h-full py-2 px-3 rounded-lg hover:bg-slate-800/60 transition-colors text-xs cursor-pointer"> <span>资源中心</span> <svg class="w-3.5 h-3.5 opacity-60 group-hover:rotate-180 transition-transform" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m6 9 6 6 6-6"></path></svg> </button> <div class="hidden group-hover:flex flex-col absolute top-full left-0 bg-slate-900 border border-slate-800 rounded-2xl shadow-2xl p-2 min-w-[190px] z-50 animate-fadeIn"> <a href="/link" class="px-3 py-2 rounded-xl text-xs text-slate-300 hover:text-white hover:bg-slate-800 flex items-center gap-2 transition-colors"> <svg class="w-3.5 h-3.5 text-slate-400" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg> <span>友情链接</span> </a> <a href="https://tool.gh-proxy.com/" target="_blank" rel="noreferrer" class="px-3 py-2 rounded-xl text-xs text-slate-300 hover:text-white hover:bg-slate-800 flex items-center justify-between transition-colors"> <span class="flex items-center gap-2"> <svg class="w-3.5 h-3.5 text-slate-400" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"></path></svg> <span>开发者工具箱</span> </span> <svg class="w-3 h-3 text-slate-500" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg> </a> </div> </div>  <div class="group relative h-full flex items-center"> <button class="text-slate-300 group-hover:text-white font-medium flex items-center gap-1 h-full py-2 px-3 rounded-lg hover:bg-slate-800/60 transition-colors text-xs cursor-pointer"> <span>支持我们</span> <svg class="w-3.5 h-3.5 opacity-60 group-hover:rotate-180 transition-transform" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m6 9 6 6 6-6"></path></svg> </button> <div class="hidden group-hover:flex flex-col absolute top-full left-0 bg-slate-900 border border-slate-800 rounded-2xl shadow-2xl p-2 min-w-[190px] z-50 animate-fadeIn"> <a href="/donate" class="px-3 py-2 rounded-xl text-xs text-slate-300 hover:text-white hover:bg-slate-800 flex items-center gap-2.5 transition-colors"> <span class="text-rose-400">💖</span> <span>捐赠支持</span> </a> <a href="/donate-list" class="px-3 py-2 rounded-xl text-xs text-slate-300 hover:text-white hover:bg-slate-800 flex items-center gap-2.5 transition-colors"> <span class="text-amber-400">🏆</span> <span>致谢名单</span> </a> </div> </div> </div>  <div class="flex items-center gap-2 sm:gap-3 h-full flex-shrink-0">  <a href="/en" title="切换为英文" class="text-xs px-2.5 py-1.5 rounded-xl border border-slate-700/80 bg-slate-800/50 hover:bg-slate-800 text-slate-300 hover:text-white transition-colors flex items-center gap-1.5"> <svg class="w-3.5 h-3.5 text-emerald-400" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path></svg> <span>EN / 中</span> </a>  <button id="themeToggleBtn" type="button" title="切换暗黑/亮色主题" class="text-slate-300 hover:text-white p-2 rounded-xl hover:bg-slate-800/60 transition-colors focus:outline-none cursor-pointer flex-shrink-0"> <svg id="themeMoonIcon" class="w-4 h-4 hidden dark:block text-amber-400" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="4"></circle><path d="M12 2v2"></path><path d="M12 20v2"></path><path d="m4.93 4.93 1.41 1.41"></path><path d="m17.66 17.66 1.41 1.41"></path><path d="M2 12h2"></path><path d="M20 12h2"></path><path d="m6.34 17.66-1.41 1.41"></path><path d="m19.07 4.93-1.41 1.41"></path></svg> <svg id="themeSunIcon" class="w-4 h-4 block dark:hidden text-slate-400" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"></path></svg> </button>  <button id="mobileMenuToggle" type="button" aria-label="Toggle navigation menu" class="md:hidden text-slate-300 hover:text-white p-2 rounded-xl hover:bg-slate-800 focus:outline-none cursor-pointer flex-shrink-0"> <svg id="hamburgerIcon" class="w-5 h-5 block" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="4" y1="12" x2="20" y2="12"></line><line x1="4" y1="6" x2="20" y2="6"></line><line x1="4" y1="18" x2="20" y2="18"></line></svg> <svg id="closeIcon" class="w-5 h-5 hidden" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 6 6 18"></path><path d="m6 6 12 12"></path></svg> </button> </div> </div>  <div id="mobileDrawer" class="hidden md:hidden fixed top-[60px] inset-x-0 bottom-0 bg-[#0f172a] dark:bg-[#020617] border-b border-slate-800 z-50 overflow-y-auto px-4 py-5 space-y-5 shadow-2xl" style="background-color: #0f172a;">  <div class="grid grid-cols-2 gap-2"> <a href="https://gh-proxy.com/go/yuncping" target="_blank" rel="noopener noreferrer" class="flex items-center justify-between p-3 rounded-2xl bg-[#0e2238] border border-cyan-500/50 text-cyan-400 hover:text-cyan-300 transition-all font-semibold text-xs shadow-md"> <div class="flex items-center gap-2"> <svg class="w-4 h-4 text-cyan-400 flex-shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"> <path d="M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.38-.5-2-1-3-1.072-2.143-.224-4.054 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.153.433-2.294 1-3a2.5 2.5 0 0 0 2.5 2.5z"></path> </svg> <span>靠谱机场评测</span> </div> <span class="text-[10px] px-1.5 py-0.5 rounded-full bg-cyan-500/20 text-cyan-300 border border-cyan-500/40 font-mono">评测</span> </a> <a href="https://gh-proxy.com/go/jujiasu" target="_blank" rel="noopener noreferrer" class="relative flex items-center justify-between p-[1px] rounded-2xl overflow-hidden group/mobile-rainbow shadow-md transition-transform active:scale-98">  <span class="absolute inset-0 rainbow-stream-bg"></span>  <div class="relative w-full flex items-center justify-between p-3 rounded-[15px] bg-[#1a140e]/95 dark:bg-[#090d16]/95 backdrop-blur-md"> <div class="flex items-center gap-2"> <svg class="w-4 h-4 text-amber-400 flex-shrink-0 animate-pulse" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"> <path d="M17.8 19.2 16 11l3.5-3.5C21 6 21.5 4 21 3c-1-.5-3 0-4.5 1.5L13 8 4.8 6.2c-.5-.1-.9.1-1.1.5l-.3.5c-.2.5-.1 1 .3 1.3L9 12l-2 3H4l-1 1 3 2 2 3 1-1v-3l3-2 3.5 5.3c.3.4.8.5 1.3.3l.5-.2c.4-.3.6-.7.5-1.2z"></path> </svg> <span class="text-xs font-bold rainbow-stream-text">
+自用机场推荐
+</span> </div> <span class="text-[10px] px-1.5 py-0.5 rounded-full bg-amber-500/20 text-amber-300 border border-amber-500/40 font-mono font-medium">
+高速
+</span> </div> </a> </div>  <div class="space-y-2"> <div class="text-[11px] font-bold uppercase tracking-wider text-slate-400 dark:text-zinc-500 px-1"> 加速服务 </div> <div class="grid grid-cols-2 gap-2"> <a href="/" class="p-3 rounded-xl bg-slate-800 border border-slate-700/70 text-xs text-slate-200 hover:bg-slate-700/80 flex items-center gap-2 transition-colors"> <span class="w-2 h-2 rounded-full bg-emerald-500 flex-shrink-0"></span> <span>GitHub 文件加速</span> </a> <a href="/docker" class="p-3 rounded-xl bg-slate-800 border border-slate-700/70 text-xs text-slate-200 hover:bg-slate-700/80 flex items-center gap-2 transition-colors"> <span class="w-2 h-2 rounded-full bg-cyan-500 flex-shrink-0"></span> <span>Docker 镜像加速</span> </a> <a href="/sourceforge" class="p-3 rounded-xl bg-slate-800 border border-slate-700/70 text-xs text-slate-200 hover:bg-slate-700/80 flex items-center gap-2 transition-colors"> <span class="w-2 h-2 rounded-full bg-amber-500 flex-shrink-0"></span> <span>SourceForge 加速</span> </a> <a href="/opensheet" class="p-3 rounded-xl bg-slate-800 border border-slate-700/70 text-xs text-slate-200 hover:bg-slate-700/80 flex items-center gap-2 transition-colors"> <span class="w-2 h-2 rounded-full bg-teal-500 flex-shrink-0"></span> <span>Google 表格转 JSON</span> </a> </div> <a href="/analytics" class="w-full p-2.5 rounded-xl bg-slate-800 border border-slate-700/70 text-xs text-slate-200 hover:bg-slate-700/80 flex items-center gap-2 transition-colors"> <span class="w-2 h-2 rounded-full bg-purple-500 flex-shrink-0"></span> <span>节点测速与实时流量统计</span> </a> </div>  <div class="space-y-2"> <div class="text-[11px] font-bold uppercase tracking-wider text-slate-400 dark:text-zinc-500 px-1"> 教程与资讯 </div> <div class="grid grid-cols-2 gap-2"> <a href="/docs" class="p-3 rounded-xl bg-slate-800 border border-slate-700/70 text-xs text-slate-200 hover:bg-slate-700/80 flex items-center gap-2 transition-colors"> <svg class="w-3.5 h-3.5 text-blue-400" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1-2.5-2.5Z"></path><path d="M6 6h10"></path><path d="M6 10h10"></path></svg> <span>文档教程</span> </a> <a href="/blog" class="p-3 rounded-xl bg-slate-800 border border-slate-700/70 text-xs text-slate-200 hover:bg-slate-700/80 flex items-center gap-2 transition-colors"> <svg class="w-3.5 h-3.5 text-emerald-400" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 20h9"></path><path d="M16.5 3.5a2.12 2.12 0 0 1 3 3L7 19l-4 1 1-4Z"></path></svg> <span>官方博客</span> </a> </div> </div>  <div class="space-y-2"> <div class="text-[11px] font-bold uppercase tracking-wider text-slate-400 dark:text-zinc-500 px-1"> 社区与支持 </div> <div class="grid grid-cols-2 gap-2"> <a href="/link" class="p-3 rounded-xl bg-slate-800 border border-slate-700/70 text-xs text-slate-200 hover:bg-slate-700/80 flex items-center gap-2 transition-colors"> <svg class="w-3.5 h-3.5 text-cyan-400" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg> <span>友情链接</span> </a> <a href="https://tool.gh-proxy.com/" target="_blank" rel="noreferrer" class="p-3 rounded-xl bg-slate-800 border border-slate-700/70 text-xs text-slate-200 hover:bg-slate-700/80 flex items-center gap-2 transition-colors"> <svg class="w-3.5 h-3.5 text-amber-400" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"></path></svg> <span>开发者工具箱</span> </a> <a href="/donate" class="p-3 rounded-xl bg-slate-800 border border-slate-700/70 text-xs text-slate-200 hover:bg-slate-700/80 flex items-center gap-2 transition-colors"> <span class="text-rose-400">💖</span> <span>捐赠支持</span> </a> <a href="/donate-list" class="p-3 rounded-xl bg-slate-800 border border-slate-700/70 text-xs text-slate-200 hover:bg-slate-700/80 flex items-center gap-2 transition-colors"> <span class="text-amber-400">🏆</span> <span>致谢名单</span> </a> </div> </div> </div> </nav> <script>
+  // Theme Toggle with Follow-System Support
+  const themeBtn = document.getElementById('themeToggleBtn');
+  const isEn = document.documentElement.lang === 'en';
 
-</div></div>
+  const updateThemeTitle = (themeState) => {
+    if (!themeBtn) return;
+    if (themeState === 'system') {
+      themeBtn.setAttribute('title', isEn ? 'Theme: Follow System (Click to toggle)' : '主题模式：跟随系统（点击切换）');
+    } else if (themeState === 'light') {
+      themeBtn.setAttribute('title', isEn ? 'Theme: Light (Click to toggle)' : '主题模式：浅色模式（点击切换）');
+    } else if (themeState === 'dark') {
+      themeBtn.setAttribute('title', isEn ? 'Theme: Dark (Click to toggle)' : '主题模式：深色模式（点击切换）');
+    }
+  };
+
+  const storedTheme = localStorage.getItem('ghproxy_theme');
+  updateThemeTitle(storedTheme || 'system');
+
+  // Listen for system theme changes when in follow-system mode
+  try {
+    const mediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
+    const handleSystemChange = (e) => {
+      const stored = localStorage.getItem('ghproxy_theme');
+      if (!stored || stored === 'system') {
+        if (e.matches) {
+          document.documentElement.classList.add('dark');
+        } else {
+          document.documentElement.classList.remove('dark');
+        }
+      }
+    };
+    if (mediaQuery.addEventListener) {
+      mediaQuery.addEventListener('change', handleSystemChange);
+    } else if (mediaQuery.addListener) {
+      mediaQuery.addListener(handleSystemChange);
+    }
+  } catch (e) {}
+
+  if (themeBtn) {
+    themeBtn.addEventListener('click', () => {
+      const currentStored = localStorage.getItem('ghproxy_theme');
+      const systemDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+      
+      let nextTheme;
+      if (!currentStored || currentStored === 'system') {
+        nextTheme = systemDark ? 'light' : 'dark';
+      } else if (currentStored === 'light') {
+        nextTheme = systemDark ? 'system' : 'dark';
+      } else { // 'dark'
+        nextTheme = systemDark ? 'light' : 'system';
+      }
+
+      if (nextTheme === 'system') {
+        localStorage.removeItem('ghproxy_theme');
+        if (systemDark) {
+          document.documentElement.classList.add('dark');
+        } else {
+          document.documentElement.classList.remove('dark');
+        }
+        updateThemeTitle('system');
+        if (window.showToast) {
+          window.showToast(isEn ? 'Theme: Follow System' : '主题已恢复为：跟随系统模式');
+        }
+      } else if (nextTheme === 'light') {
+        localStorage.setItem('ghproxy_theme', 'light');
+        document.documentElement.classList.remove('dark');
+        updateThemeTitle('light');
+        if (window.showToast) {
+          window.showToast(isEn ? 'Theme: Light Mode' : '主题已切换为：浅色模式');
+        }
+      } else { // 'dark'
+        localStorage.setItem('ghproxy_theme', 'dark');
+        document.documentElement.classList.add('dark');
+        updateThemeTitle('dark');
+        if (window.showToast) {
+          window.showToast(isEn ? 'Theme: Dark Mode' : '主题已切换为：深色模式');
+        }
+      }
+    });
+  }
+
+  // Mobile Menu Drawer Handler
+  const mobileToggle = document.getElementById('mobileMenuToggle');
+  const mobileDrawer = document.getElementById('mobileDrawer');
+  const hamburgerIcon = document.getElementById('hamburgerIcon');
+  const closeIcon = document.getElementById('closeIcon');
+
+  function openMobileMenu() {
+    if (!mobileDrawer) return;
+    mobileDrawer.classList.remove('hidden');
+    if (hamburgerIcon) {
+      hamburgerIcon.classList.add('hidden');
+      hamburgerIcon.classList.remove('block');
+    }
+    if (closeIcon) {
+      closeIcon.classList.remove('hidden');
+      closeIcon.classList.add('block');
+    }
+    document.body.style.overflow = 'hidden';
+  }
+
+  function closeMobileMenu() {
+    if (!mobileDrawer) return;
+    mobileDrawer.classList.add('hidden');
+    if (hamburgerIcon) {
+      hamburgerIcon.classList.remove('hidden');
+      hamburgerIcon.classList.add('block');
+    }
+    if (closeIcon) {
+      closeIcon.classList.add('hidden');
+      closeIcon.classList.remove('block');
+    }
+    document.body.style.overflow = '';
+  }
+
+  function toggleMobileMenu() {
+    if (!mobileDrawer) return;
+    if (mobileDrawer.classList.contains('hidden')) {
+      openMobileMenu();
+    } else {
+      closeMobileMenu();
+    }
+  }
+
+  if (mobileToggle) {
+    mobileToggle.addEventListener('click', (e) => {
+      e.stopPropagation();
+      toggleMobileMenu();
+    });
+  }
+
+  // Close mobile drawer when any link is clicked
+  if (mobileDrawer) {
+    mobileDrawer.querySelectorAll('a').forEach((link) => {
+      link.addEventListener('click', () => {
+        closeMobileMenu();
+      });
+    });
+  }
+</script>  <!-- Main Content --> <main class="flex-grow">  <script>
+    (function() {
+      try {
+        var p = window.location.pathname;
+        if (p && p !== '/' && p !== '/en' && p !== '/en/') {
+          var isEn = p.indexOf('/en/') === 0;
+          if (isEn) p = p.slice(3);
+          var cleaned = p.replace(/^\/+/, '');
+          var reserved = ['about', 'privacy', 'terms', 'donate', 'donate-list', 'analytics', 'docker', 'sourceforge', 'opensheet', 'link', 'docs', 'blog', 'admin', 'waline-api', 'api', 'assets', '_astro'];
+          var first = cleaned.split('/')[0].toLowerCase();
+          if (reserved.indexOf(first) === -1) {
+            if (/^(?:https?:(?:\/+)?)?(?:www\.)?github\.com/i.test(cleaned) || /^(?:https?:(?:\/+)?)?(?:raw\.)?githubusercontent\.com/i.test(cleaned)) {
+              var norm = cleaned.replace(/^https?:(?:\/+)?/i, 'https://');
+              if (norm.indexOf('http://') !== 0 && norm.indexOf('https://') !== 0) norm = 'https://' + norm;
+              var target = (isEn ? '/en/#' : '/#') + norm;
+              if (window.history && window.history.replaceState) {
+                window.history.replaceState({}, '', target);
+              }
+            } else if (cleaned.indexOf('/') !== -1 && cleaned.indexOf('..') === -1) {
+              var parts = cleaned.split('/').filter(Boolean);
+              if (parts.length >= 2) {
+                var owner = parts[0];
+                var repo = parts[1].replace(/\.git$/, '');
+                if (reserved.indexOf(owner.toLowerCase()) === -1) {
+                  var targetRepo = (isEn ? '/en/#' : '/#') + ('https://github.com/' + owner + '/' + repo);
+                  if (window.history && window.history.replaceState) {
+                    window.history.replaceState({}, '', targetRepo);
+                  }
+                }
+              }
+            }
+          }
+        }
+      } catch(e) {}
+    })();
+  </script> <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-10 sm:py-16 space-y-16 sm:space-y-24"> <!-- Hero Section --> <section class="text-center max-w-3xl mx-auto space-y-6"> <div class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full text-xs font-medium bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 border border-emerald-500/20 shadow-sm animate-fadeIn"> <span class="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></span> <span>GH-Proxy 2.0 极速加速引擎现已上线</span> </div> <h1 class="text-4xl sm:text-5xl lg:text-6xl font-extrabold tracking-tight text-slate-900 dark:text-white leading-[1.15]">
+开发者专属的 <br> <span class="text-gradient">GitHub 全球加速网关</span> </h1> <p class="text-base sm:text-lg text-slate-600 dark:text-zinc-400 max-w-2xl mx-auto leading-relaxed">
+支持 Release、Raw、Archive、Gist 与 Git Clone 毫秒级智能调度代理，让开源代码拉取畅通无阻。
+</p> </section> <!-- Top Partner Showcase --> <div class="banner-section relative"> <div class="banner-stage max-w-[800px] mx-auto mb-8 sm:mb-12 space-y-3 sm:space-y-4 " style="width: 100%;"> <!-- Yuncping Card Slot --> <div class="banner-slot block w-full"> <a href="https://gh-proxy.com/go/yuncping" target="_blank" rel="noopener noreferrer" class="relative block w-full rounded-2xl overflow-hidden border border-slate-200/80 dark:border-white/10 shadow-sm transition-transform hover:scale-[1.005] group"> <img src="https://r1.gh-proxy.com/yuncping.webp" alt="yuncping" class="w-full h-auto block mx-auto rounded-2xl" loading="lazy" width="800" height="100"> <span class="corner-badge absolute bottom-1.5 right-2 px-1.5 py-0.5 text-[10px] leading-none text-white/80 bg-black/45 backdrop-blur-sm rounded border border-white/15 select-none pointer-events-none tracking-wider"></span> </a> </div> <!-- DGY Card Slot --> <div class="banner-slot block w-full"> <a href="https://gh-proxy.com/go/dgy" target="_blank" rel="noopener noreferrer" class="relative block w-full rounded-2xl overflow-hidden border border-slate-200/80 dark:border-white/10 shadow-sm transition-transform hover:scale-[1.005] group"> <img src="https://r1.gh-proxy.com/dgy800.gif" alt="dgy" class="w-full h-auto block mx-auto rounded-2xl" loading="lazy" width="800" height="100"> <span class="corner-badge absolute bottom-1.5 right-2 px-1.5 py-0.5 text-[10px] leading-none text-white/80 bg-black/45 backdrop-blur-sm rounded border border-white/15 select-none pointer-events-none tracking-wider"></span> </a> </div> </div> <style>
+  .corner-badge::after {
+    content: '\5E7F\544A';
+  }
+</style> </div> <!-- Interactive URL Converter Island --> <section class="relative z-10"> <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var A=Object.defineProperty;var g=(i,o,a)=>o in i?A(i,o,{enumerable:!0,configurable:!0,writable:!0,value:a}):i[o]=a;var d=(i,o,a)=>g(i,typeof o!="symbol"?o+"":o,a);{let i={0:t=>m(t),1:t=>a(t),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(a(t)),5:t=>new Set(a(t)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(t),9:t=>new Uint16Array(t),10:t=>new Uint32Array(t),11:t=>1/0*t},o=t=>{let[l,e]=t;return l in i?i[l](e):void 0},a=t=>t.map(o),m=t=>typeof t!="object"||t===null?t:Object.fromEntries(Object.entries(t).map(([l,e])=>[l,o(e)]));class y extends HTMLElement{constructor(){super(...arguments);d(this,"Component");d(this,"hydrator");d(this,"hydrate",async()=>{var b;if(!this.hydrator||!this.isConnected)return;let e=(b=this.parentElement)==null?void 0:b.closest("astro-island[ssr]");if(e){e.addEventListener("astro:hydrate",this.hydrate,{once:!0});return}let c=this.querySelectorAll("astro-slot"),n={},h=this.querySelectorAll("template[data-astro-template]");for(let r of h){let s=r.closest(this.tagName);s!=null&&s.isSameNode(this)&&(n[r.getAttribute("data-astro-template")||"default"]=r.innerHTML,r.remove())}for(let r of c){let s=r.closest(this.tagName);s!=null&&s.isSameNode(this)&&(n[r.getAttribute("name")||"default"]=r.innerHTML)}let p;try{p=this.hasAttribute("props")?m(JSON.parse(this.getAttribute("props"))):{}}catch(r){let s=this.getAttribute("component-url")||"<unknown>",v=this.getAttribute("component-export");throw v&&(s+=` (export ${v})`),console.error(`[hydrate] Error parsing props for component ${s}`,this.getAttribute("props"),r),r}let u;await this.hydrator(this)(this.Component,p,n,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),this.dispatchEvent(new CustomEvent("astro:hydrate"))});d(this,"unmount",()=>{this.isConnected||this.dispatchEvent(new CustomEvent("astro:unmount"))})}disconnectedCallback(){document.removeEventListener("astro:after-swap",this.unmount),document.addEventListener("astro:after-swap",this.unmount,{once:!0})}connectedCallback(){if(!this.hasAttribute("await-children")||document.readyState==="interactive"||document.readyState==="complete")this.childrenConnectedCallback();else{let e=()=>{document.removeEventListener("DOMContentLoaded",e),c.disconnect(),this.childrenConnectedCallback()},c=new MutationObserver(()=>{var n;((n=this.lastChild)==null?void 0:n.nodeType)===Node.COMMENT_NODE&&this.lastChild.nodeValue==="astro:end"&&(this.lastChild.remove(),e())});c.observe(this,{childList:!0}),document.addEventListener("DOMContentLoaded",e)}}async childrenConnectedCallback(){let e=this.getAttribute("before-hydration-url");e&&await import(e),this.start()}async start(){let e=JSON.parse(this.getAttribute("opts")),c=this.getAttribute("client");if(Astro[c]===void 0){window.addEventListener(`astro:${c}`,()=>this.start(),{once:!0});return}try{await Astro[c](async()=>{let n=this.getAttribute("renderer-url"),[h,{default:p}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),u=this.getAttribute("component-export")||"default";if(!u.includes("."))this.Component=h[u];else{this.Component=h;for(let f of u.split("."))this.Component=this.Component[f]}return this.hydrator=p,this.hydrate},e,this)}catch(n){console.error(`[astro-island] Error hydrating ${this.getAttribute("component-url")}`,n)}}attributeChangedCallback(){this.hydrate()}}d(y,"observedAttributes",["props"]),customElements.get("astro-island")||customElements.define("astro-island",y)}})();</script><astro-island uid="1ON7Ef" prefix="r0" component-url="/_astro/Converter.VOHQXnSX.js" component-export="default" renderer-url="/_astro/client.DrE9CFQR.js" props="{&quot;lang&quot;:[0,&quot;zh&quot;]}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Converter&quot;,&quot;value&quot;:true}" await-children=""><div class="space-y-8"><div class="bg-white/85 dark:bg-zinc-900/85 backdrop-blur-xl rounded-3xl p-6 sm:p-8 shadow-xl border border-slate-200/80 dark:border-white/10 transition-all space-y-5"><div class="grid grid-cols-2 sm:grid-cols-4 gap-2"><button type="button" class="px-4 py-2.5 rounded-xl text-xs sm:text-sm font-semibold transition-all flex items-center justify-center gap-1.5 cursor-pointer bg-emerald-600 text-white shadow-md shadow-emerald-600/30"><span>原始链接</span></button><button type="button" class="px-4 py-2.5 rounded-xl text-xs sm:text-sm font-semibold transition-all flex items-center justify-center gap-1.5 cursor-pointer bg-slate-100 dark:bg-zinc-800 text-slate-700 dark:text-zinc-300 hover:bg-slate-200 dark:hover:bg-zinc-700"><span>Git Clone</span></button><button type="button" class="px-4 py-2.5 rounded-xl text-xs sm:text-sm font-semibold transition-all flex items-center justify-center gap-1.5 cursor-pointer bg-slate-100 dark:bg-zinc-800 text-slate-700 dark:text-zinc-300 hover:bg-slate-200 dark:hover:bg-zinc-700"><span>Wget</span></button><button type="button" class="px-4 py-2.5 rounded-xl text-xs sm:text-sm font-semibold transition-all flex items-center justify-center gap-1.5 cursor-pointer bg-slate-100 dark:bg-zinc-800 text-slate-700 dark:text-zinc-300 hover:bg-slate-200 dark:hover:bg-zinc-700"><span>cURL</span></button></div><div class="flex flex-wrap items-center justify-center gap-2 sm:gap-3 pt-1"><a href="/docs/github-accelerator" class="inline-flex items-center gap-2 px-4 py-2 rounded-xl text-xs sm:text-sm font-semibold bg-emerald-500/10 hover:bg-emerald-500/20 text-emerald-600 dark:text-emerald-400 border border-emerald-500/20 transition-all shadow-sm group cursor-pointer"><svg class="w-4 h-4 text-emerald-500 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"></path></svg><span>查看 GitHub 加速完整文档与使用规范</span></a><a href="https://gh-proxy.com/go/yuncping" target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-2 px-4 py-2 rounded-xl text-xs sm:text-sm font-semibold bg-emerald-500/10 hover:bg-emerald-500/20 text-emerald-600 dark:text-emerald-400 border border-emerald-500/20 transition-all shadow-sm group cursor-pointer"><span class="text-amber-500">🔥</span><span>站长推荐：靠谱机场评测</span><svg class="w-3.5 h-3.5 opacity-60 group-hover:translate-x-0.5 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path></svg></a></div><div class="space-y-3"><div class="flex flex-col sm:flex-row items-stretch gap-2"><div class="relative flex-grow"><input id="githubLinkInput" type="text" placeholder="输入GitHub链接，例如：https://github.com/torvalds/linux/archive/refs/tags/v6.8.tar.gz" class="w-full pl-4 pr-12 py-3.5 bg-slate-50 dark:bg-zinc-950 border border-slate-200/80 dark:border-white/10 rounded-2xl text-sm sm:text-base text-slate-900 dark:text-zinc-100 placeholder-slate-400 dark:placeholder-zinc-500 focus:outline-none focus:border-emerald-500 font-mono transition-all shadow-inner" value=""/></div><button id="convertButton" type="button" class="px-8 py-3.5 rounded-2xl bg-gradient-to-r from-emerald-600 to-teal-600 hover:from-emerald-500 hover:to-teal-500 text-white font-bold text-sm sm:text-base flex items-center justify-center gap-2 shadow-lg shadow-emerald-600/25 transition-all flex-shrink-0 cursor-pointer active:scale-98"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-sparkles lucide-stars w-4 h-4" aria-hidden="true"><path d="M11.017 2.814a1 1 0 0 1 1.966 0l1.051 5.558a2 2 0 0 0 1.594 1.594l5.558 1.051a1 1 0 0 1 0 1.966l-5.558 1.051a2 2 0 0 0-1.594 1.594l-1.051 5.558a1 1 0 0 1-1.966 0l-1.051-5.558a2 2 0 0 0-1.594-1.594l-5.558-1.051a1 1 0 0 1 0-1.966l5.558-1.051a2 2 0 0 0 1.594-1.594z"></path><path d="M20 2v4"></path><path d="M22 4h-4"></path><circle cx="4" cy="20" r="2"></circle></svg><span>转换链接</span></button></div><div class="flex flex-wrap items-center gap-2 pt-1 text-xs"><span class="text-slate-500 dark:text-zinc-400 font-medium flex items-center gap-1.5"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-sparkles lucide-stars w-3.5 h-3.5 text-emerald-500 flex-shrink-0" aria-hidden="true"><path d="M11.017 2.814a1 1 0 0 1 1.966 0l1.051 5.558a2 2 0 0 0 1.594 1.594l5.558 1.051a1 1 0 0 1 0 1.966l-5.558 1.051a2 2 0 0 0-1.594 1.594l-1.051 5.558a1 1 0 0 1-1.966 0l-1.051-5.558a2 2 0 0 0-1.594-1.594l-5.558-1.051a1 1 0 0 1 0-1.966l5.558-1.051a2 2 0 0 0 1.594-1.594z"></path><path d="M20 2v4"></path><path d="M22 4h-4"></path><circle cx="4" cy="20" r="2"></circle></svg><span>快捷示例<!-- -->：</span></span><button type="button" class="px-2.5 py-1 rounded-lg bg-slate-100 dark:bg-zinc-800 text-slate-700 dark:text-zinc-300 hover:bg-emerald-500/10 hover:text-emerald-600 dark:hover:text-emerald-400 border border-slate-200/80 dark:border-white/10 transition-colors cursor-pointer font-medium" title="https://github.com/dyang886/Game-Cheats-Manager">仓库 Releases 解析</button><button type="button" class="px-2.5 py-1 rounded-lg bg-slate-100 dark:bg-zinc-800 text-slate-700 dark:text-zinc-300 hover:bg-emerald-500/10 hover:text-emerald-600 dark:hover:text-emerald-400 border border-slate-200/80 dark:border-white/10 transition-colors cursor-pointer font-medium" title="https://github.com/WJQSERVER-STUDIO/ghproxy/releases/download/4.3.4/ghproxy-linux-amd64.tar.gz">Release 资产包</button><button type="button" class="px-2.5 py-1 rounded-lg bg-slate-100 dark:bg-zinc-800 text-slate-700 dark:text-zinc-300 hover:bg-emerald-500/10 hover:text-emerald-600 dark:hover:text-emerald-400 border border-slate-200/80 dark:border-white/10 transition-colors cursor-pointer font-medium" title="https://github.com/WJQSERVER-STUDIO/ghproxy/archive/refs/heads/main.zip">分支源码 (Zip)</button><button type="button" class="px-2.5 py-1 rounded-lg bg-slate-100 dark:bg-zinc-800 text-slate-700 dark:text-zinc-300 hover:bg-emerald-500/10 hover:text-emerald-600 dark:hover:text-emerald-400 border border-slate-200/80 dark:border-white/10 transition-colors cursor-pointer font-medium" title="https://raw.githubusercontent.com/WJQSERVER-STUDIO/ghproxy/main/config/config.toml">Raw 原始文件</button><button type="button" class="px-2.5 py-1 rounded-lg bg-slate-100 dark:bg-zinc-800 text-slate-700 dark:text-zinc-300 hover:bg-emerald-500/10 hover:text-emerald-600 dark:hover:text-emerald-400 border border-slate-200/80 dark:border-white/10 transition-colors cursor-pointer font-medium" title="https://github.com/WJQSERVER-STUDIO/ghproxy.git">Git 仓库克隆</button></div></div></div></div><!--astro:end--></astro-island> </section> <!-- Feature Grid --> <section class="space-y-8"> <div class="text-center space-y-2"> <h2 class="text-2xl sm:text-3xl font-bold tracking-tight text-slate-900 dark:text-white">
+为什么选择 GH-Proxy？
+</h2> <p class="text-sm text-slate-500 dark:text-zinc-400">
+专为高并发生产与开发场景打造的开源基础设施
+</p> </div> <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6"> <div class="p-6 rounded-3xl border border-slate-200/80 dark:border-white/10 bg-white/60 dark:bg-zinc-900/60 backdrop-blur-md shadow-sm hover:border-emerald-500/30 transition-all hover:translate-y-[-2px] space-y-3"> <div class="text-3xl">⚡</div> <h3 class="text-base font-bold text-slate-900 dark:text-white">极速传输 · 全球 Anycast</h3> <p class="text-xs sm:text-sm text-slate-600 dark:text-zinc-400 leading-relaxed">依托全球分布式边缘加速节点与优质链路，彻底告别克隆超时与资产下载断连。</p> </div><div class="p-6 rounded-3xl border border-slate-200/80 dark:border-white/10 bg-white/60 dark:bg-zinc-900/60 backdrop-blur-md shadow-sm hover:border-emerald-500/30 transition-all hover:translate-y-[-2px] space-y-3"> <div class="text-3xl">🛡️</div> <h3 class="text-base font-bold text-slate-900 dark:text-white">安全透明 · 零数据截留</h3> <p class="text-xs sm:text-sm text-slate-600 dark:text-zinc-400 leading-relaxed">端到端 HTTPS 双向加密代理，纯流式转发，不篡改、不缓存、不留存任何用户私密代码。</p> </div><div class="p-6 rounded-3xl border border-slate-200/80 dark:border-white/10 bg-white/60 dark:bg-zinc-900/60 backdrop-blur-md shadow-sm hover:border-emerald-500/30 transition-all hover:translate-y-[-2px] space-y-3"> <div class="text-3xl">🎯</div> <h3 class="text-base font-bold text-slate-900 dark:text-white">全资源覆盖 · 即开即用</h3> <p class="text-xs sm:text-sm text-slate-600 dark:text-zinc-400 leading-relaxed">全面兼容 Git Clone、Release 资产包、Raw 原始代码、Zip 源码归档以及 GitHub API。</p> </div><div class="p-6 rounded-3xl border border-slate-200/80 dark:border-white/10 bg-white/60 dark:bg-zinc-900/60 backdrop-blur-md shadow-sm hover:border-emerald-500/30 transition-all hover:translate-y-[-2px] space-y-3"> <div class="text-3xl">🚀</div> <h3 class="text-base font-bold text-slate-900 dark:text-white">多生态扩展 · 统一加速</h3> <p class="text-xs sm:text-sm text-slate-600 dark:text-zinc-400 leading-relaxed">除 GitHub 外，无缝集成 Docker Hub、SourceForge 与 Google Sheets API 等一站式加速。</p> </div> </div> </section> <!-- Waline Feedback Section --> <section class="space-y-4"> <div class="flex items-center justify-between"> <h2 class="text-xl font-bold text-slate-900 dark:text-white flex items-center gap-2"> <span>💬 交流与反馈</span> </h2> <span class="text-xs text-slate-500 dark:text-zinc-400">若遇加速异常或节点故障欢迎在此留言</span> </div> <div class="w-full "> <link rel="stylesheet" href="/assets/css/waline.min.css"> <link rel="stylesheet" href="/assets/css/waline-x.css?v=2.3"> <div id="waline" data-path="comment" data-lang="zh" class="border border-slate-200/80 dark:border-[#2f3336] rounded-3xl bg-white dark:bg-black p-4 sm:p-7 shadow-sm transition-colors"></div> </div> <script>
+  async function initWaline() {
+    const walineEl = document.getElementById('waline');
+    if (!walineEl) return;
+    if (walineEl.dataset.walineInitialized === 'true' || walineEl.dataset.walineInitialized === 'pending') return;
+
+    // Mark as pending synchronously to prevent concurrent duplicate initializations
+    walineEl.dataset.walineInitialized = 'pending';
+
+    let path = (walineEl.getAttribute('data-path') || walineEl.dataset.path || window.location.pathname || '').trim().replace(/^\/+|\/+$/g, '');
+    if (!path) path = 'comment';
+
+    const dataLang = (walineEl.getAttribute('data-lang') || walineEl.dataset.lang || '').trim();
+    const isEn = (dataLang === 'en') || window.location.pathname.startsWith('/en') || (document.documentElement.lang && document.documentElement.lang.startsWith('en'));
+
+    // Intelligently choose serverURL: use same-origin proxy to eliminate CORS & 403 Forbidden
+    const serverURL = (window.location.hostname === 'gh-proxy.com') 
+      ? 'https://waline.gh-proxy.com' 
+      : (window.location.origin + '/waline-api');
+
+    try {
+      const walineModule = await import('/assets/js/waline.js');
+      const initFn = walineModule.init || (walineModule.default && walineModule.default.init) || walineModule.default;
+      
+      if (typeof initFn !== 'function') {
+        console.error('[Waline] init function not found in module:', walineModule);
+        return;
+      }
+
+      walineEl.dataset.walineInitialized = 'true';
+      const xLocale = isEn ? {
+        nick: 'Nickname',
+        nickError: 'Nickname cannot be less than 3 bytes.',
+        mail: 'E-Mail',
+        mailError: 'Please confirm your email address.',
+        link: 'Website',
+        optional: 'Optional',
+        placeholder: 'What is happening?! Share your thoughts or feedback...',
+        sofa: 'No posts yet. Be the first to start the conversation!',
+        submit: 'Post',
+        like: 'Like',
+        cancelLike: 'Cancel like',
+        reply: 'Reply',
+        cancelReply: 'Cancel reply',
+        comment: 'Comments',
+        refresh: 'Refresh',
+        more: 'Load more posts',
+        preview: 'Preview',
+        emoji: 'Emoji',
+        uploadImage: 'Upload Image',
+        seconds: 'seconds ago',
+        minutes: 'minutes ago',
+        hours: 'hours ago',
+        days: 'days ago',
+        now: 'just now',
+        uploading: 'Uploading',
+        login: 'Login',
+        logout: 'Logout',
+        admin: 'Admin',
+        sticky: 'Pinned',
+        word: 'Words',
+        anonymous: 'Anonymous',
+        oldest: 'Oldest',
+        latest: 'Latest',
+        hottest: 'Top',
+        reaction0: 'Super Useful',
+        reaction1: 'Helpful',
+        reaction2: 'Neutral',
+        reaction3: 'Not Helpful',
+        reaction4: 'Confusing',
+        reaction5: 'Errors Found',
+        reactionTitle: 'Was this service helpful to you?'
+      } : {
+        nick: '昵称',
+        mail: '邮箱',
+        link: '网址',
+        placeholder: '有什么新鲜事？欢迎分享使用体验与建议...(填写邮箱可在被回复时获得提醒)',
+        reaction0: '非常有用',
+        reaction1: '有帮助',
+        reaction2: '一般',
+        reaction3: '无帮助',
+        reaction4: '看不懂',
+        reaction5: '有错误',
+        reactionTitle: '本站服务对你有帮助吗？',
+        sofa: '暂无动态，率先发布第一条交流吧~',
+        submit: '发布',
+        comment: '评论',
+        more: '加载更多'
+      };
+
+      initFn({
+        el: '#waline',
+        serverURL: serverURL,
+        path: path,
+        lang: isEn ? 'en-US' : 'zh-CN',
+        dark: 'html.dark',
+        pageSize: 10,
+        copyright: true,
+        reaction: [
+          'https://r1.gh-proxy.com/emojis/bilibili/bb_heart_eyes.png',
+          'https://r1.gh-proxy.com/emojis/bilibili/bb_thumbsup.png',
+          'https://r1.gh-proxy.com/emojis/bilibili/bb_zhoumei.png',
+          'https://r1.gh-proxy.com/emojis/bilibili/bb_grievance.png',
+          'https://r1.gh-proxy.com/emojis/bilibili/bb_dizzy_face.png',
+          'https://r1.gh-proxy.com/emojis/bilibili/bb_slap.png'
+        ],
+        locale: xLocale,
+        emoji: [
+          'https://r1.gh-proxy.com/emojis/blobs',
+          'https://r1.gh-proxy.com/emojis/bmoji',
+          'https://r1.gh-proxy.com/emojis/bilibili',
+          'https://r1.gh-proxy.com/emojis/weibo',
+          'https://r1.gh-proxy.com/emojis/qq',
+          'https://r1.gh-proxy.com/emojis/tieba',
+          'https://r1.gh-proxy.com/emojis/alus'
+        ],
+        search: false,
+        imageUploader: (file) => {
+          const formData = new FormData();
+          formData.append('file', file);
+          return fetch('https://skyimg.net/api/upload', {
+            method: 'POST',
+            body: formData
+          }).then(res => {
+            if (!res.ok) throw new Error('图床接口响应异常: ' + res.status);
+            return res.json();
+          }).then(data => {
+            if (Array.isArray(data) && data.length > 0 && data[0].url) {
+              return data[0].url;
+            }
+            throw new Error('图床未返回有效的图片链接');
+          });
+        }
+      });
+    } catch (e) {
+      console.error('[Waline] Load error:', e);
+    }
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initWaline, { once: true });
+  } else {
+    initWaline();
+  }
+</script> </section> </div>  </main> <!-- Global Toast Container --> <div id="toast-container" class="fixed bottom-6 right-6 z-50 flex flex-col gap-2 pointer-events-none"></div> <!-- Site Footer --> <div class="mt-auto"> <footer class="border-t border-slate-200 dark:border-white/10 bg-slate-50/50 dark:bg-zinc-950/70 backdrop-blur-lg transition-colors"> <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 lg:py-16"> <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-8 lg:gap-12"> <!-- Brand column --> <div class="lg:col-span-2 space-y-4"> <a href="/" class="flex items-center gap-2.5 font-bold text-lg text-slate-900 dark:text-white"> <img src="/favicon.svg" alt="GH-Proxy" class="w-8 h-8 shadow-md shadow-emerald-500/20 flex-shrink-0" width="32" height="32"> <span class="tracking-tight">GH-Proxy</span> <span class="text-xs px-2 py-0.5 rounded-full font-mono bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 border border-emerald-500/20">v2.0</span> </a> <p class="text-sm text-slate-600 dark:text-zinc-400 leading-relaxed max-w-sm"> 全球高速代码分发与开源镜像代理网关。免配置、即开即用、完全开源免费。 </p> <div class="flex items-center gap-2 text-xs text-emerald-600 dark:text-emerald-400 font-medium"> <span class="relative flex h-2 w-2"> <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span> <span class="relative inline-flex rounded-full h-2 w-2 bg-emerald-500"></span> </span> <span>全部服务节点正常运行中</span> </div> </div> <!-- Services --> <div> <h3 class="text-xs font-semibold uppercase tracking-wider text-slate-900 dark:text-zinc-200 mb-3"> 加速代理 </h3> <ul class="space-y-2 text-sm"> <li> <a href="/" class="text-slate-600 hover:text-emerald-600 dark:text-zinc-400 dark:hover:text-emerald-400 transition-colors"> GitHub 文件加速 </a> </li><li> <a href="/docker" class="text-slate-600 hover:text-emerald-600 dark:text-zinc-400 dark:hover:text-emerald-400 transition-colors"> Docker 镜像加速 </a> </li><li> <a href="/sourceforge" class="text-slate-600 hover:text-emerald-600 dark:text-zinc-400 dark:hover:text-emerald-400 transition-colors"> SourceForge 加速 </a> </li><li> <a href="/opensheet" class="text-slate-600 hover:text-emerald-600 dark:text-zinc-400 dark:hover:text-emerald-400 transition-colors"> Google 表格转 JSON </a> </li> </ul> </div> <!-- Community --> <div> <h3 class="text-xs font-semibold uppercase tracking-wider text-slate-900 dark:text-zinc-200 mb-3"> 社区支持 </h3> <ul class="space-y-2 text-sm"> <li> <a href="/donate" class="text-slate-600 hover:text-emerald-600 dark:text-zinc-400 dark:hover:text-emerald-400 transition-colors"> 捐赠支持 </a> </li><li> <a href="/donate-list" class="text-slate-600 hover:text-emerald-600 dark:text-zinc-400 dark:hover:text-emerald-400 transition-colors"> 捐赠荣誉榜 </a> </li><li> <a href="/link" class="text-slate-600 hover:text-emerald-600 dark:text-zinc-400 dark:hover:text-emerald-400 transition-colors"> 友情链接 </a> </li><li> <a href="/analytics" class="text-slate-600 hover:text-emerald-600 dark:text-zinc-400 dark:hover:text-emerald-400 transition-colors"> 实时流量监控 </a> </li> </ul> </div> <!-- Resources --> <div> <h3 class="text-xs font-semibold uppercase tracking-wider text-slate-900 dark:text-zinc-200 mb-3"> 文档资讯 </h3> <ul class="space-y-2 text-sm"> <li> <a href="/docs" class="text-slate-600 hover:text-emerald-600 dark:text-zinc-400 dark:hover:text-emerald-400 transition-colors"> 使用文档 </a> </li><li> <a href="/blog" class="text-slate-600 hover:text-emerald-600 dark:text-zinc-400 dark:hover:text-emerald-400 transition-colors"> 博客资讯 </a> </li><li> <a href="/about" class="text-slate-600 hover:text-emerald-600 dark:text-zinc-400 dark:hover:text-emerald-400 transition-colors"> 关于服务 </a> </li><li> <a href="/terms" class="text-slate-600 hover:text-emerald-600 dark:text-zinc-400 dark:hover:text-emerald-400 transition-colors"> 服务条款 </a> </li><li> <a href="/privacy" class="text-slate-600 hover:text-emerald-600 dark:text-zinc-400 dark:hover:text-emerald-400 transition-colors"> 隐私政策 </a> </li> </ul> </div> </div> <div class="mt-12 pt-8 border-t border-slate-200/80 dark:border-white/5 flex flex-col md:flex-row items-center justify-between gap-4 text-xs text-slate-500 dark:text-zinc-500"> <p>© 2026 GH-Proxy. 保留所有权利。由全球开源社区驱动。</p> <p class="text-center md:text-right max-w-xl">本站仅提供中立的开源分发与反向代理网络加速服务，不存储也不拥有任何第三方版权资产。</p> </div> </div> </footer> </div> <!-- Toast helper script --> <script>
+      window.showToast = function(message, type = 'success') {
+        const container = document.getElementById('toast-container');
+        if (!container) return;
+        const toast = document.createElement('div');
+        toast.className = `px-4 py-2.5 rounded-xl shadow-lg text-sm font-medium transition-all duration-300 transform translate-y-2 opacity-0 pointer-events-auto flex items-center gap-2 border ${
+          type === 'success' 
+            ? 'bg-emerald-950/90 text-emerald-200 border-emerald-500/30 shadow-emerald-500/10' 
+            : type === 'error'
+            ? 'bg-red-950/90 text-red-200 border-red-500/30 shadow-red-500/10'
+            : 'bg-zinc-900/90 text-zinc-200 border-zinc-700 shadow-black/20'
+        }`;
+        toast.innerHTML = `
+          <svg class="w-4 h-4 flex-shrink-0 ${type === 'success' ? 'text-emerald-400' : type === 'error' ? 'text-red-400' : 'text-zinc-400'}" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            ${type === 'success' 
+              ? '<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />' 
+              : type === 'error'
+              ? '<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />'
+              : '<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />'}
+          </svg>
+          <span>${message}</span>
+        `;
+        container.appendChild(toast);
+        requestAnimationFrame(() => {
+          toast.classList.remove('translate-y-2', 'opacity-0');
+        });
+        setTimeout(() => {
+          toast.classList.add('translate-y-2', 'opacity-0');
+          setTimeout(() => toast.remove(), 300);
+        }, 2600);
+      };
+    </script> </body> </html>
