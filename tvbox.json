@@ -13,12 +13,20 @@
             "name": "摸鱼儿可用"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/hebijunge/tvbox-config@main/vod.json",
-            "name": "hebijunge_vod"
+            "url": "https://fastly.jsdelivr.net/gh/asxs123/mytvboxlist@main/merged.json",
+            "name": "asxs123_merged"
+        },
+        {
+            "url": "https://fastly.jsdelivr.net/gh/royalhayga/tvbox-master-aggregator@main/tvbox.json",
+            "name": "royalhayga_tvbox"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/royalhayga/tvbox-master-aggregator@main/tvbox_full.json",
             "name": "royalhayga_tvbox_full"
+        },
+        {
+            "url": "https://fastly.jsdelivr.net/gh/jipinwa/tvbox-master-aggregator@main/tvbox.json",
+            "name": "jipinwa_tvbox"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/jipinwa/tvbox-master-aggregator@main/tvbox_full.json",
@@ -29,8 +37,12 @@
             "name": "byteshijinn"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/wangguo0/tvbox-sub@main/merged.json",
-            "name": "wangguo0_merged"
+            "url": "https://fastly.jsdelivr.net/gh/25175/tvyuan@master/tvbox_full.json",
+            "name": "25175_tvbox_full"
+        },
+        {
+            "url": "https://fastly.jsdelivr.net/gh/bearnozhang/tv-hub@main/public/tv.json",
+            "name": "bearnozhang_tv"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/jifeng250/tvbox-sources@main/tvbox.json",
@@ -45,16 +57,16 @@
             "name": "dql521_okys-green-gcore"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/dql521/TVBox@main/okys-green-ghfast.json",
-            "name": "dql521_okys-green-ghfast"
+            "url": "https://fastly.jsdelivr.net/gh/dql521/TVBox@main/okys-green-jsd.json",
+            "name": "dql521_okys-green-jsd"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/dql521/TVBox@main/okys-green.json",
             "name": "dql521_okys-green"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/evenbsies/ttboys@main/merged.json",
-            "name": "evenbsies_merged"
+            "url": "https://fastly.jsdelivr.net/gh/dql521/TVBox@main/okys-green-ghfast.json",
+            "name": "dql521_okys-green-ghfast"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/evenbsies/ttboys@main/m.json",
@@ -73,20 +85,20 @@
             "name": "wzxxcz_xczwzx"
         },
         {
+            "url": "https://fastly.jsdelivr.net/gh/woshishiq1/hipy-drpy2@main/wzxxcz/xczwzx.json",
+            "name": "woshishiq1_xczwzx"
+        },
+        {
             "url": "https://fastly.jsdelivr.net/gh/zhourenjing/tvbox-conf@main/boss_tvbox.json",
             "name": "zhourenjing"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/zcchu04/tvbox@master/hb.json",
-            "name": "zcchu04_hb"
-        },
-        {
-            "url": "https://fastly.jsdelivr.net/gh/lys8013/woshishiq1-@main/wzxxcz/wzxxcz.json",
-            "name": "lys8013_wzxxcz"
-        },
-        {
             "url": "https://fastly.jsdelivr.net/gh/leexuben/BINGO-TV@main/xcz.json",
             "name": "leexuben_/xcz"
+        },
+        {
+            "url": "https://fastly.jsdelivr.net/gh/lys8013/woshishiq1-@main/wzxxcz/xczwzx.json",
+            "name": "lys8013_xczwzx"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/Captain-2019/tvbox-sync@main/out/tvbox.json",
@@ -97,20 +109,16 @@
             "name": "woshishiq1_djry"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/dql521/TVBox@main/okys-best-ghfast.json",
-            "name": "dql521_okys-best-ghfast"
+            "url": "https://fastly.jsdelivr.net/gh/dql521/TVBox@main/okys-best-gcore.json",
+            "name": "dql521_okys-best-gcore"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/dql521/TVBox@main/okys-best-jsd.json",
             "name": "dql521_okys-best-jsd"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/dql521/TVBox@main/okys-best-gcore.json",
-            "name": "dql521_okys-best-gcore"
-        },
-        {
-            "url": "https://fastly.jsdelivr.net/gh/dql521/TVBox@main/okys-best.json",
-            "name": "dql521_okys-best"
+            "url": "https://fastly.jsdelivr.net/gh/dql521/TVBox@main/okys-best-ghfast.json",
+            "name": "dql521_okys-best-ghfast"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/13998394872/TVBox@main/FM.json",
@@ -129,20 +137,12 @@
             "name": "aojianhc_道长"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/houzi0939/tvbox@refs/heads/main/新道长/index.json",
-            "name": "houzi0939_新道长"
-        },
-        {
             "url": "https://fastly.jsdelivr.net/gh/lys8013/woshishiq1-@main/drpy_dzlive/index.json",
             "name": "lys8013_index"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/inakaten/yg@main/gr.txt",
             "name": "inakaten_gr"
-        },
-        {
-            "url": "https://fastly.jsdelivr.net/gh/935704653/EasyBox@main/自制/api.json",
-            "name": "935704653-api"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/MINGERTAI/uri@main/out/tvbox.txt",
@@ -161,10 +161,6 @@
             "name": "GD2021_TVBOX测试版"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/GD2021/TVBOX@main/datas/TVBOX测试版.min.json",
-            "name": "GD2021_TVBOX测试版min"
-        },
-        {
             "url": "https://fastly.jsdelivr.net/gh/abc99571875/tvboxqq@master/360ys/api.json",
             "name": "abc99571875_360ys"
         },
@@ -181,12 +177,12 @@
             "url": "https://sub.lytvs.top/get?token=cj_194d135d"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/wokaotianshi123/hipytestbox@main/index.json",
-            "name": "🌺hipy小刘版"
-        },
-        {
             "name": "👦雷蒙影视主线【P1】",
             "url": "https://fastly.jsdelivr.net/gh/n3rddd/N3RD@master/JN/lem.json"
+        },
+        {
+            "url": "https://fastly.jsdelivr.net/gh/wokaotianshi123/hipytestbox@main/index.json",
+            "name": "🌺hipy小刘版"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/luffy94608/myTVB@master/custom.json",
@@ -225,6 +221,10 @@
             "name": "qist_js"
         },
         {
+            "url": "https://fastly.jsdelivr.net/gh/Visupervi/TVBOX-AUTO@main/dist/tvbox.json",
+            "name": "Visupervi_tvbox"
+        },
+        {
             "url": "https://fastly.jsdelivr.net/gh/asxs123/mytvboxlist@main/tvboxlist/高天流云.json",
             "name": "asxs123_高天流云"
         },
@@ -234,7 +234,7 @@
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/js.json",
-            "name": "大佬 | 高天流云js"
+            "name": "🚀高天流云js"
         },
         {
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js.json",
@@ -297,16 +297,12 @@
             "name": "maoystv_002"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/s14685/tv@main/tbnet.json",
-            "name": "s14685_tbnet"
-        },
-        {
             "url": "https://fastly.jsdelivr.net/gh/s14685/tv@main/favnet.json",
             "name": "s14685_favnet"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/jiushizhe/daozhang@main/drpy_dzlive6.21/index.json",
-            "name": "采集之王"
+            "url": "https://fastly.jsdelivr.net/gh/s14685/tv@main/tbnet.json",
+            "name": "s14685_tbnet"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/aliluya1977/TVBox@master/shg备份.json",
@@ -373,6 +369,10 @@
             "name": "asdjkl66_fyk"
         },
         {
+            "url": "https://fastly.jsdelivr.net/gh/bearnozhang/tv-hub@main/public/tv-fast.json",
+            "name": "bearnozhang_tv-fast"
+        },
+        {
             "url": "https://fastly.jsdelivr.net/gh/Grovin720/tan@main/All.json",
             "name": "Grovin720_All"
         },
@@ -397,20 +397,12 @@
             "name": "tjyu010_1206"
         },
         {
-            "url": "https://raw.liucn.cc/box/m.json",
-            "name": "肥猫"
-        },
-        {
-            "url": "https://fastly.jsdelivr.net/gh/walkeryjn/tvbox@main/config_gh_cdn.json",
-            "name": "walkeryjn_config"
+            "url": "https://fastly.jsdelivr.net/gh/walkeryjn/tvbox@main/config_fix_jar.json",
+            "name": "walkeryjn_config_fix"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/walkeryjn/tvbox@main/config.json",
             "name": "walkeryjn_config"
-        },
-        {
-            "url": "https://fastly.jsdelivr.net/gh/walkeryjn/tvbox@main/config_fix_jar.json",
-            "name": "walkeryjn_config_fix"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/luoliphysics/TVBOX@main/m.json",
@@ -433,24 +425,28 @@
             "name": "cmacckk_m"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/aojianhc/tvbox@main/ZY1.json",
-            "name": "aojianhc_ZY1"
-        },
-        {
             "url": "https://fastly.jsdelivr.net/gh/aojianhc/tvbox@main/Lucky.json",
             "name": "aojianhc_Lucky"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/aojianhc/tvbox@main/liubei.json",
-            "name": "aojianhc_liubei"
+            "url": "https://fastly.jsdelivr.net/gh/aojianhc/tvbox@main/ZY1.json",
+            "name": "aojianhc_ZY1"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/aojianhc/tvbox@main/m.json",
             "name": "aojianhc_m"
         },
         {
+            "url": "https://fastly.jsdelivr.net/gh/aojianhc/tvbox@main/liubei.json",
+            "name": "aojianhc_liubei"
+        },
+        {
             "url": "https://fastly.jsdelivr.net/gh/liu673cn/box@main/m.json",
             "name": "大佬 | 刘备"
+        },
+        {
+            "name": "老刘📚拾光仓库",
+            "url": "https://raw.liucn.cc/box/m.json"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/hl128k/tvbox@main/tv/3/liu673cn_m.json",
@@ -471,6 +467,14 @@
         {
             "url": "https://fastly.jsdelivr.net/gh/guxiangbin/tvbox2@main/高天弹幕.txt",
             "name": "guxiangbin-高天弹幕"
+        },
+        {
+            "url": "https://fastly.jsdelivr.net/gh/debaters6/XYQ@master/drpy_js/drjs_config.json",
+            "name": "道长JS"
+        },
+        {
+            "url": "https://fastly.jsdelivr.net/gh/wokaotianshi123/tvtg@main/道长JS/api.json",
+            "name": "道长JS"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/guxiangbin/tvbox2@main/猫爪资源.txt",
@@ -541,6 +545,10 @@
             "name": "hl128k_yw88075_js"
         },
         {
+            "url": "https://fastly.jsdelivr.net/gh/guxiangbin/tvbox2@main/心中之魔.txt",
+            "name": "guxiangbin-心中之魔"
+        },
+        {
             "url": "https://fastly.jsdelivr.net/gh/guxiangbin/tvbox2@main/心魔js.txt",
             "name": "guxiangbin-心魔js"
         },
@@ -549,44 +557,36 @@
             "name": "guxiangbin-心魔"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/guxiangbin/tvbox2@main/道长接口.txt",
-            "name": "guxiangbin-道长接口"
-        },
-        {
             "url": "https://fastly.jsdelivr.net/gh/guxiangbin/tvbox2@main/道长js.txt",
             "name": "guxiangbin-道长js"
+        },
+        {
+            "url": "https://fastly.jsdelivr.net/gh/guxiangbin/tvbox2@main/道长接口.txt",
+            "name": "guxiangbin-道长接口"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/jonwel2020/tvboxapi@main/m39.json",
             "name": "jonwel2020_m39"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/RS5114/RS51@main/my.json",
-            "name": "RS5114_my"
-        },
-        {
-            "url": "https://fastly.jsdelivr.net/gh/mlzbest/tvbox-api-backup@main/tvbox/菠菜pro.json",
-            "name": "mlzbest_菠菜pro"
+            "url": "https://fastly.jsdelivr.net/gh/guxiangbin/tvbox2@main/海天聚合.txt",
+            "name": "guxiangbin-海天聚合"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/guxiangbin/tvbox2@main/海风爱腾.txt",
             "name": "guxiangbin-海风爱腾"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/guxiangbin/tvbox2@main/海天聚合.txt",
-            "name": "guxiangbin-海天聚合"
-        },
-        {
             "url": "https://fastly.jsdelivr.net/gh/gitbochs/tvbox_url@main/config_200sites.json",
             "name": "gitbochs_200sites"
         },
         {
-            "url": "https://leezn.eu.org/TVBox/js.json",
-            "name": "🌟Leezn🌟"
-        },
-        {
             "url": "https://fastly.jsdelivr.net/gh/KKKKKK66666688/douban-hub@main/douban.json",
             "name": "KKKKKK66666688_douban"
+        },
+        {
+            "url": "https://leezn.eu.org/TVBox/js.json",
+            "name": "🌟Leezn🌟"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/guxiangbin/tvbox2@main/老刘备.txt",
@@ -597,12 +597,12 @@
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yifatvbox3.josn"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/SakuraByteCore/subHub@main/tvbox.json",
-            "name": "subHub_tvbox"
+            "url": "https://fastly.jsdelivr.net/gh/lyqnihao/m3u8@master/FGBLH/FG/Web鱼壳海豚常规664",
+            "name": "lyqnihao_Web鱼壳海豚常规664"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/jiaoshihao/tvboxs@main/001.json",
-            "name": "jiaoshihao_001"
+            "url": "https://fastly.jsdelivr.net/gh/SakuraByteCore/subHub@main/tvbox.json",
+            "name": "subHub_tvbox"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/hebijunge/tvbox-config@main/short.json",
@@ -625,10 +625,6 @@
             "name": "maoystv_分享者"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/GD2021/TVBOX@main/datas/haitun_backup.json",
-            "name": "GD2021_haitun_backup"
-        },
-        {
             "url": "https://fastly.jsdelivr.net/gh/GD2021/TVBOX@main/datas/haitun.json",
             "name": "GD2021_haitun"
         },
@@ -645,12 +641,12 @@
             "name": "hotword-fc"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/jhong421/pgpro@main/api.json",
-            "name": "jhong421-api"
-        },
-        {
             "url": "https://fastly.jsdelivr.net/gh/jhong421/pgpro@main/jsm.json",
             "name": "jhong421-jsm"
+        },
+        {
+            "url": "https://fastly.jsdelivr.net/gh/HuShanquan3/MusicTvBoxMobile@main/m.json",
+            "name": "蕉影视TV"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/leexuben/TVBOX-merge@main/api.json",
@@ -669,12 +665,12 @@
             "name": "jonwel2020_14"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/guxiangbin/tvbox2@main/影视大全.txt",
-            "name": "guxiangbin-影视大全"
+            "url": "https://fastly.jsdelivr.net/gh/guxiangbin/tvbox2@main/业余盘搜.txt",
+            "name": "guxiangbin-业余盘搜"
         },
         {
-            "url": "http://v-dragon.com.hk/4k/",
-            "name": "秋水4k"
+            "url": "https://fastly.jsdelivr.net/gh/guxiangbin/tvbox2@main/影视大全.txt",
+            "name": "guxiangbin-影视大全"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/T00700/Yc-TVBOX@main/1.json",
@@ -683,6 +679,10 @@
         {
             "url": "https://fastly.jsdelivr.net/gh/c120487/00@main/00tv1c.txt",
             "name": "c120487_00tv1c"
+        },
+        {
+            "url": "https://fastly.jsdelivr.net/gh/aliluya1977/TVBox@master/pro.json",
+            "name": "aliluya1977_pro"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/moqioujun/ok@main/聚合大源-2026-06-21-1643.local.json",
@@ -737,12 +737,12 @@
             "name": "jonwel2020_02"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/guxiangbin/tvbox2@main/道长降魔.txt",
-            "name": "guxiangbin-道长降魔"
-        },
-        {
             "url": "https://fastly.jsdelivr.net/gh/guxiangbin/tvbox2@main/道长.txt",
             "name": "guxiangbin-道长"
+        },
+        {
+            "url": "https://fastly.jsdelivr.net/gh/guxiangbin/tvbox2@main/道长降魔.txt",
+            "name": "guxiangbin-道长降魔"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/1539971456/ys-tvbox@main/api.json",
@@ -755,10 +755,6 @@
         {
             "url": "https://fastly.jsdelivr.net/gh/aa3151036158/tvbox-config@main/output/sige.json",
             "name": "aa3151036158_sige"
-        },
-        {
-            "url": "https://fastly.jsdelivr.net/gh/bearnozhang/tv-hub@main/public/tv-ysc.json",
-            "name": "bearnozhang_tv-ysc"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/520pt/lufeitv-tvbox@master/jsm.json",
@@ -813,16 +809,36 @@
             "name": "️恒星4K"
         },
         {
+            "url": "https://fastly.jsdelivr.net/gh/Lettte/tvbox-custom@main/jsm-plus.json",
+            "name": "Lettte-Hui_jsm-plus"
+        },
+        {
             "url": "https://fastly.jsdelivr.net/gh/wanggeming123/tvbox@main/my.json",
             "name": "wanggeming123_my"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/anwenxiansheng/tvbox@main/tvbox.json",
-            "name": "anwenxiansheng_tvbox"
-        },
-        {
             "url": "https://fastly.jsdelivr.net/gh/lege0001/TVbox@main/TV/azzj.json",
             "name": "🔥爱在指尖|乐哥影视"
+        },
+        {
+            "url": "https://fastly.jsdelivr.net/gh/520pt/ikunbox@main/tvbox.json",
+            "name": "520pt_tvbox"
+        },
+        {
+            "url": "https://fastly.jsdelivr.net/gh/520pt/ikunbox@main/jsm.json",
+            "name": "520pt_jsm"
+        },
+        {
+            "url": "https://fastly.jsdelivr.net/gh/ne7359/tvurl@main/dianshi.json",
+            "name": "ne7359_dianshi"
+        },
+        {
+            "url": "https://fastly.jsdelivr.net/gh/qist/tvbox@master/dianshi.json",
+            "name": "qist_dianshi"
+        },
+        {
+            "url": "https://fastly.jsdelivr.net/gh/city10666/tvbox-beifen@main/aiyouteng.json",
+            "name": "city10666_aiyouteng"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/chenlin368/ysc@main/api.json",
@@ -837,24 +853,20 @@
             "name": "ys-0910_ys"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/520pt/ikunbox@main/jsm.json",
-            "name": "520pt_jsm"
+            "url": "https://fastly.jsdelivr.net/gh/Grovin720/tan@main/jsm.json",
+            "name": "Grovin720_jsm"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/520pt/ikunbox@main/tvbox.json",
-            "name": "520pt_tvbox"
+            "url": "https://fastly.jsdelivr.net/gh/ne7359/tvurl@main/jsm.json",
+            "name": "ne7359_jsm"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/ne7359/tvurl@main/dianshi.json",
-            "name": "ne7359_dianshi"
+            "url": "https://fastly.jsdelivr.net/gh/qist/tvbox@master/jsm.json",
+            "name": "qist_jsm"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/qist/tvbox@master/dianshi.json",
-            "name": "qist_dianshi"
-        },
-        {
-            "url": "https://fastly.jsdelivr.net/gh/city10666/tvbox-beifen@main/aiyouteng.json",
-            "name": "city10666_aiyouteng"
+            "name": "🐝契斯特",
+            "url": "https://qist.tycng.com/jsm.json"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/bluefriendCN/set@main/md.json",
@@ -881,40 +893,24 @@
             "name": "jixiejishu_dianshi"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/ne7359/tvurl@main/jsm.json",
-            "name": "ne7359_jsm"
-        },
-        {
-            "url": "https://fastly.jsdelivr.net/gh/qist/tvbox@master/jsm.json",
-            "name": "qist_jsm"
-        },
-        {
-            "name": "🐝契斯特",
-            "url": "https://qist.tycng.com/jsm.json"
-        },
-        {
-            "url": "https://fastly.jsdelivr.net/gh/alantang1977/TVBoxOSC@main/api.json",
-            "name": "alantang1977_api"
+            "url": "https://fastly.jsdelivr.net/gh/sck03407/TVbox@main/TV4.json",
+            "name": "sck03407_TV4"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/jixiejishu/tvboxzb@master/jsm.json",
             "name": "jixiejishu_jsm"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/sck03407/TVbox@main/TV4.json",
-            "name": "sck03407_TV4"
-        },
-        {
             "url": "https://fastly.jsdelivr.net/gh/hy5528/tvbox@main/og.json",
             "name": "hy5528-og"
         },
         {
-            "name": "心魔📚在线",
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json"
-        },
-        {
             "name": "😍心魔仓库",
             "url": "https://fastly.jsdelivr.net/gh/yw88075/tvbox@main/yw.json"
+        },
+        {
+            "name": "心魔📚在线",
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/asxs123/mytvboxlist@main/tvboxlist/潇洒线路.json",
@@ -929,10 +925,6 @@
             "name": "aojianhc_api"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/dy7766/tvbox-merge@main/merged.json",
-            "name": "dy7766_merged"
-        },
-        {
             "url": "https://fastly.jsdelivr.net/gh/niuber/niuber@main/tvbox/api.json",
             "name": "niuber_api"
         },
@@ -941,16 +933,12 @@
             "name": "13998394872_PG"
         },
         {
+            "url": "https://fastly.jsdelivr.net/gh/ride-start/ownimpl@main/tv/tvb.json",
+            "name": "ride-start_tvb"
+        },
+        {
             "url": "https://fastly.jsdelivr.net/gh/mcp2016/TVBox@main/backup/多多┃潇洒线路.json",
             "name": "多多┃潇洒线路"
-        },
-        {
-            "url": "https://fastly.jsdelivr.net/gh/fcd666520/2024looo@master/666/lioo.json",
-            "name": "fcd666520_lioo"
-        },
-        {
-            "url": "https://fastly.jsdelivr.net/gh/city10666/tvbox-fty@main/aiyouteng.json",
-            "name": "city10666_aiyouteng"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/hotword/ziyong@main/FX.json",
@@ -1021,6 +1009,10 @@
             "name": "wb521cx_jsm"
         },
         {
+            "url": "https://fastly.jsdelivr.net/gh/wb521cx/tt@master/dianshi1.json",
+            "name": "wb521cx_dianshi1"
+        },
+        {
             "url": "https://fastly.jsdelivr.net/gh/wb521cx/tt@master/dianshi.json",
             "name": "wb521cx_dianshi"
         },
@@ -1037,6 +1029,10 @@
             "name": "wb521cx_dianshi"
         },
         {
+            "url": "https://fastly.jsdelivr.net/gh/lwd461235458/Tvbox-Sin@main/jsm.json",
+            "name": "lwd461235458_jsm"
+        },
+        {
             "url": "https://fastly.jsdelivr.net/gh/dushan555/PublicFile@main/20250901.json",
             "name": "dushan555_20250901"
         },
@@ -1047,10 +1043,6 @@
         {
             "url": "https://fastly.jsdelivr.net/gh/zengjian03/han@master/我的/api.json",
             "name": "zengjian03_api"
-        },
-        {
-            "url": "https://fastly.jsdelivr.net/gh/Visupervi/TVBOX-AUTO@main/dist/tvbox.json",
-            "name": "Visupervi_tvbox"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/hl128k/tvbox@main/tv/3/0825.json",
@@ -1071,6 +1063,10 @@
         {
             "url": "https://fastly.jsdelivr.net/gh/mcp2016/TVBox@main/backup/多多┃星辰线路.json",
             "name": "多多┃星辰线路"
+        },
+        {
+            "url": "https://fastly.jsdelivr.net/gh/niubihu1/tvbox@main/1.json",
+            "name": "niubihu1_1"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/niubihu1/tvbox-@main/1.json",
@@ -1097,10 +1093,6 @@
             "name": "fqu2003_api"
         },
         {
-            "name": "💿雷蒙影视云盘【P2】",
-            "url": "https://fastly.jsdelivr.net/gh/n3rddd/N3RD@master/JN/lempg2.json"
-        },
-        {
             "url": "https://fastly.jsdelivr.net/gh/guxiangbin/tvbox2@main/喵影视.txt",
             "name": "guxiangbin-喵影视"
         },
@@ -1119,10 +1111,6 @@
         {
             "url": "https://fastly.jsdelivr.net/gh/guxiangbin/tvbox2@main/苹果新源.txt",
             "name": "guxiangbin-苹果新源"
-        },
-        {
-            "url": "https://fastly.jsdelivr.net/gh/ganbyline/tvbox@main/001.json",
-            "name": "ganbyline_001"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/hotword/ziyong@main/fk.json",
@@ -1153,6 +1141,10 @@
             "name": "BP3388_Y53 仓鼠WJ"
         },
         {
+            "url": "https://fastly.jsdelivr.net/gh/debaters6/XYQ@master/XYQ1.json",
+            "name": "高天流云 XYQ"
+        },
+        {
             "url": "https://fastly.jsdelivr.net/gh/qirenzhidao/tvbox18@main/XYQTVBox/XYQTVBox.json",
             "name": "香雅情线"
         },
@@ -1177,10 +1169,6 @@
             "name": "GD2021_cnb_backup"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/GD2021/TVBOX@main/datas/cnb.json",
-            "name": "GD2021_cnb"
-        },
-        {
             "name": "🧑┃潇洒",
             "url": "https://cnb.cool/fish2035/xs/-/git/raw/main/api.json"
         },
@@ -1201,6 +1189,10 @@
             "name": "aojianhc_xiaolin"
         },
         {
+            "name": "🐝蜂窝接口",
+            "url": "https://fastly.jsdelivr.net/gh/xiaolinshao/linshao@main/1.json"
+        },
+        {
             "url": "https://fastly.jsdelivr.net/gh/aojianhc/tvbox@main/tinghao.json",
             "name": "aojianhc_挺好"
         },
@@ -1209,16 +1201,12 @@
             "name": "BP3388_Y53 仓鼠4K"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/xzwei528/qixia@main/qixia.json",
-            "name": "七夏"
+            "name": "七夏TV📚七夏仓库",
+            "url": "https://fastly.jsdelivr.net/gh/xzwei528/qixia@main/qixia.json"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/Henrytuan/tvbox@main/tvbox.json",
             "name": "Henrytuan_tvbox"
-        },
-        {
-            "url": "https://fastly.jsdelivr.net/gh/yilongym/tvboxapi01@main/tianwei.json",
-            "name": "yilongym_天微"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/hotword/afan@main/fx.json",
@@ -1239,10 +1227,6 @@
         {
             "url": "https://fastly.jsdelivr.net/gh/ls125781003/qqctg@main/欧歌/api.json",
             "name": "ls125781003_欧歌"
-        },
-        {
-            "url": "https://fastly.jsdelivr.net/gh/ls125781003/tvboxtg@main/欧歌/api.json",
-            "name": "欧歌"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/mlzbest/tvbox-api-backup@main/tvbox/幸福年年.json",
@@ -1269,12 +1253,12 @@
             "name": "BP3388_天微影视"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/guxiangbin/tvbox2@main/千软汇聚.txt",
-            "name": "guxiangbin-千软汇聚"
-        },
-        {
             "url": "https://fastly.jsdelivr.net/gh/guxiangbin/tvbox2@main/千软汇线.txt",
             "name": "guxiangbin-千软汇线"
+        },
+        {
+            "url": "https://fastly.jsdelivr.net/gh/guxiangbin/tvbox2@main/千软汇聚.txt",
+            "name": "guxiangbin-千软汇聚"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/guxiangbin/tvbox2@main/神仙.txt",
@@ -1291,6 +1275,10 @@
         {
             "url": "https://fastly.jsdelivr.net/gh/lubin776/tvbox-api-backup@main/tvbox/X4菠菜pro.json",
             "name": "lubin776_X4菠菜pro"
+        },
+        {
+            "url": "https://fastly.jsdelivr.net/gh/mlzbest/tvbox-api-backup@main/tvbox/菠菜pro.json",
+            "name": "mlzbest_菠菜pro"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/flytam/tvbox-source@main/tv.json",
@@ -1321,6 +1309,10 @@
             "name": "midsummer0206_仲夏影音"
         },
         {
+            "url": "https://fastly.jsdelivr.net/gh/guxiangbin/tvbox2@main/文坤主力.txt",
+            "name": "guxiangbin-文坤主力"
+        },
+        {
             "url": "https://fastly.jsdelivr.net/gh/guxiangbin/tvbox2@main/阿里专线.txt",
             "name": "guxiangbin-阿里专线"
         },
@@ -1349,10 +1341,6 @@
             "name": "vcloudc_天微"
         },
         {
-            "url": "https://lyrhub.github.io/tvbox-search/searchable.json",
-            "name": "searchable"
-        },
-        {
             "url": "https://jihulab.com/e8/4k/-/raw/master/kele.json",
             "name": "高清4K版影音天堂"
         },
@@ -1365,20 +1353,16 @@
             "name": "guxiangbin-短剧"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/jiaoxin327/source_url@main/config.json",
+            "url": "https://fastly.jsdelivr.net/gh/jiaoxin327/source_url@main/config.local.json",
             "name": "jiaoxin327_config"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/jiaoxin327/source_url@main/config.local.json",
+            "url": "https://fastly.jsdelivr.net/gh/jiaoxin327/source_url@main/config.json",
             "name": "jiaoxin327_config"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/jiaoxin327/source_url@main/config.hosted.json",
             "name": "jiaoxin327_config"
-        },
-        {
-            "url": "https://fastly.jsdelivr.net/gh/zengjian03/han@master/a/api.json",
-            "name": "zengjian03_api"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/yilongym/tvboxapi01@main/毒盒.json",
@@ -1397,12 +1381,12 @@
             "name": "jixiejishu_api"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/guxiangbin/tvbox2@main/壹梦接口.txt",
-            "name": "guxiangbin-壹梦接口"
-        },
-        {
             "url": "https://fastly.jsdelivr.net/gh/guxiangbin/tvbox2@main/壹梦主力.txt",
             "name": "guxiangbin-壹梦主力"
+        },
+        {
+            "url": "https://fastly.jsdelivr.net/gh/guxiangbin/tvbox2@main/壹梦接口.txt",
+            "name": "guxiangbin-壹梦接口"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/guxiangbin/tvbox2@main/壹梦梦壹.txt",
@@ -1441,24 +1425,12 @@
             "name": "xiaoshuangdashu_2"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/supermeguo/BoxRes@main/Myuse/moyu.json",
-            "name": "supermeguo_摸鱼"
-        },
-        {
-            "url": "https://fastly.jsdelivr.net/gh/alantang1977/pg@main/py.json",
-            "name": "alantang1977_py"
-        },
-        {
-            "url": "https://fastly.jsdelivr.net/gh/wokaotianshi123/tvtg@main/天天开心/api.json",
-            "name": "天天开心"
-        },
-        {
             "url": "https://fastly.jsdelivr.net/gh/lubin776/tvbox-api-backup@main/tvbox/潇洒.json",
             "name": "lubin776_潇洒"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/yilongym/tvboxapi01@main/lige.json",
-            "name": "yilongym_lige"
+            "url": "https://fastly.jsdelivr.net/gh/wokaotianshi123/tvtg@main/天天开心/api.json",
+            "name": "天天开心"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/yilongym/tvboxapi01@main/讴歌.js",
@@ -1475,10 +1447,6 @@
         {
             "url": "https://play.iptv365.org/摸鱼儿/api.json",
             "name": "摸鱼儿"
-        },
-        {
-            "url": "https://fastly.jsdelivr.net/gh/lubin776/tvbox@main/og/OG.json",
-            "name": "lubin776_OG"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/jixiejishu/tvboxzb@master/367.json",
@@ -1549,12 +1517,12 @@
             "name": "woshishiq1-api"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/shangyunvip/yscdx@master/sydx.json",
-            "name": "🐉殇云综合主线-2🐉"
-        },
-        {
             "url": "https://fastly.jsdelivr.net/gh/shangyunvip/yscdx@master/备用.json",
             "name": "🐉殇云综合主线-备用1🐉"
+        },
+        {
+            "url": "https://fastly.jsdelivr.net/gh/shangyunvip/yscdx@master/sydx.json",
+            "name": "🐉殇云综合主线-2🐉"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/shangyunvip/dx@master/zyplayer.json",
@@ -1609,10 +1577,6 @@
             "name": "lzhmh_30"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/gitbochs/tvbox_url@main/config_100sites.json",
-            "name": "gitbochs_100sites"
-        },
-        {
             "url": "https://fastly.jsdelivr.net/gh/JERRYMUYU/MUYU@main/ziyong.json",
             "name": "JERRYMUYU_ziyong"
         },
@@ -1625,6 +1589,10 @@
             "name": "zxsjc_jsm"
         },
         {
+            "url": "https://fastly.jsdelivr.net/gh/woniuxs/PG@main/jsm.json",
+            "name": "🚀PG线路"
+        },
+        {
             "url": "https://fastly.jsdelivr.net/gh/shangyunvip/dx@master/shangyun.json",
             "name": "📚殇云综合shangyun📚"
         },
@@ -1633,16 +1601,16 @@
             "name": "geek994_tvbox"
         },
         {
-            "name": "Clun📚在线",
-            "url": "https://clun.top/box.json"
-        },
-        {
             "url": "https://fastly.jsdelivr.net/gh/cluntop/TVBox@main/box.json",
             "name": "cluntop_box"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/woshishiq1/hipy-drpy2@main/tvbox/box.json",
             "name": "woshishiq1_box"
+        },
+        {
+            "name": "Clun📚在线",
+            "url": "https://clun.top/box.json"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/fikryxuuuu/xx@main/zb.json",
@@ -1677,6 +1645,10 @@
             "name": "guxiangbin-🦉窝影主站"
         },
         {
+            "url": "https://fastly.jsdelivr.net/gh/guxiangbin/tvbox2@main/夜猫子新.txt",
+            "name": "guxiangbin-夜猫子新"
+        },
+        {
             "url": "https://9280.kstore.vip/newwex.json",
             "name": "王二小放牛娃防屏蔽新"
         },
@@ -1699,6 +1671,10 @@
         {
             "url": "https://fastly.jsdelivr.net/gh/T00700/Yc-TVBOX@main/2.json",
             "name": "T00700_2"
+        },
+        {
+            "url": "https://fastly.jsdelivr.net/gh/wokaotianshi123/tvtg@main/短剧频道/api.json",
+            "name": "短剧频道"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/woshishiq1/hipy-drpy2@main/wzxxcz/WJYY.json",
@@ -1753,10 +1729,6 @@
             "name": "aojianhc_神仙"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/cxelva/xpg@main/cxelva.json",
-            "name": "cxelva_小苹果影视"
-        },
-        {
             "url": "https://fastly.jsdelivr.net/gh/riverstar1998/TVBOXlink@main/rsbox.json",
             "name": "riverstar1998_rsbox"
         },
@@ -1769,12 +1741,16 @@
             "name": "asxs123_业余线路"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/guxiangbin/tvbox2@main/不良帅线.txt",
-            "name": "guxiangbin-不良帅线"
+            "url": "https://fastly.jsdelivr.net/gh/hl128k/tvbox@main/tv/3/hackyjso_jzy.json",
+            "name": "hl128k_hackyjso_jzy"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/guxiangbin/tvbox2@main/不良帅.txt",
-            "name": "guxiangbin-不良帅"
+            "url": "https://fastly.jsdelivr.net/gh/cxelva/xpg@main/cxelva.json",
+            "name": "cxelva_小苹果影视"
+        },
+        {
+            "url": "https://fastly.jsdelivr.net/gh/guxiangbin/tvbox2@main/不良帅线.txt",
+            "name": "guxiangbin-不良帅线"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/guxiangbin/tvbox2@main/歌手MV.txt",
@@ -1795,6 +1771,10 @@
         {
             "url": "https://fastly.jsdelivr.net/gh/guxiangbin/tvbox2@main/看电影.txt",
             "name": "guxiangbin-看电影"
+        },
+        {
+            "url": "https://fastly.jsdelivr.net/gh/lubin776/tvbox@main/0/ogx4.txt",
+            "name": "lubin776_ogx4"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/ls125781003/tbapi1@main/NF/api.json",
@@ -1829,6 +1809,10 @@
             "name": "franksun1211_裤佬"
         },
         {
+            "url": "https://fastly.jsdelivr.net/gh/github86525/wang-er-xiao-tvbox@main/6455.online.json",
+            "name": "github86525_王二小放牛娃"
+        },
+        {
             "url": "https://fastly.jsdelivr.net/gh/my521jf/my521jf.github.io@main/tv.json",
             "name": "my521jf_tv"
         },
@@ -1839,10 +1823,6 @@
         {
             "url": "https://gitlab.com/cktv/007/-/raw/main/4856.jsom",
             "name": "共享"
-        },
-        {
-            "url": "https://fastly.jsdelivr.net/gh/guxiangbin/tvbox2@main/万达广场.txt",
-            "name": "guxiangbin-万达广场"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/guxiangbin/tvbox2@main/万达专线.txt",
@@ -1881,12 +1861,12 @@
             "name": "ls125781003_南风"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/ls125781003/tvboxtg@main/南风/api.json",
-            "name": "南风"
-        },
-        {
             "url": "https://fastly.jsdelivr.net/gh/ls125781003/qqctg@main/嗷呜/api.json",
             "name": "ls125781003_嗷呜"
+        },
+        {
+            "url": "https://fastly.jsdelivr.net/gh/mcp2016/TVBox@main/backup/多多┃业余线路.json",
+            "name": "多多┃业余线路"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/Cliffliuyubin/tvboxprivate@main/TVbox_Dr_V2.abs.json",
@@ -1985,6 +1965,10 @@
             "name": "2008hanbing_jy1"
         },
         {
+            "url": "https://fastly.jsdelivr.net/gh/guot55/yg@main/box原.json",
+            "name": "guot55_box原"
+        },
+        {
             "url": "https://fastly.jsdelivr.net/gh/oe77/tvbox@main/毒盒.txt",
             "name": "oe77_毒盒"
         },
@@ -2015,6 +1999,10 @@
         {
             "url": "https://fastly.jsdelivr.net/gh/LCii-Bot/TVBOX@main/ql4k.json",
             "name": "LCii-Bot_4k"
+        },
+        {
+            "url": "https://fastly.jsdelivr.net/gh/Wuxiao139/Tvbox@main/api.json",
+            "name": "Wuxiao139_api"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/momoyuyuer/TVBoxpro@main/api.json",
@@ -2053,20 +2041,20 @@
             "url": "https://fastly.jsdelivr.net/gh/guot55/yg@main/pg/bh.json"
         },
         {
-            "name": "月光📚在线",
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/max.json"
-        },
-        {
             "url": "https://fastly.jsdelivr.net/gh/guot55/yg@main/max.json",
             "name": "guot55_宝盒"
+        },
+        {
+            "name": "月光📚在线",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/max.json"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/anaer/Meow@main/meow.json",
             "name": "anaer_meow"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/hl128k/tvbox@main/tv/3/anaer_meow.json",
-            "name": "hl128k_anaer_meow"
+            "name": "🐱喵呜",
+            "url": "https://anaer.github.io/Meow/meow.json"
         },
         {
             "url": "https://play.iptv365.org/OK/api.json",
@@ -2085,12 +2073,16 @@
             "name": "yescopys_api"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/ryu989/tvbox@main/jsm.json",
-            "name": "ryu989_jsm"
+            "url": "https://cdn.jsdelivr.net/gh/darkings/lat3ncy-tvbox@main/subscription/ponyo.json",
+            "name": "darkings_ponyo"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/lys8013/woshishiq1-@main/tvbox/jsm.json",
             "name": "lys8013_jsm"
+        },
+        {
+            "url": "https://fastly.jsdelivr.net/gh/ryu989/tvbox@main/jsm.json",
+            "name": "ryu989_jsm"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/xinyi1984/xytv@master/jsm.json",
@@ -2117,14 +2109,6 @@
             "name": "JackiesChans_裤佬"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/darkings/lat3ncy-tvbox@main/subscription/ponyo.json",
-            "name": "darkings_ponyo"
-        },
-        {
-            "url": "https://cdn.jsdelivr.net/gh/darkings/lat3ncy-tvbox@main/subscription/ponyo.json",
-            "name": "darkings_ponyo"
-        },
-        {
             "url": "https://fastly.jsdelivr.net/gh/jackyd2024/online@main/jsm.json",
             "name": "jackyd2024_jsm"
         },
@@ -2145,6 +2129,14 @@
             "name": "guxiangbin-无名影视"
         },
         {
+            "url": "https://fastly.jsdelivr.net/gh/1072103612/eggtv@main/playback_candidates_tvbox.json",
+            "name": "eggtv-jsm_tvbox"
+        },
+        {
+            "url": "https://fastly.jsdelivr.net/gh/1072103612/eggtv@main/tvbox_config.json",
+            "name": "eggtv-tvbox"
+        },
+        {
             "url": "https://fastly.jsdelivr.net/gh/maoshuiwei/tvbox@main/xbpq.json",
             "name": "maoshuiwei"
         },
@@ -2155,14 +2147,6 @@
         {
             "url": "https://fastly.jsdelivr.net/gh/caijuemou/tvbox@main/tvbox.json",
             "name": "caijuemou_tvbox"
-        },
-        {
-            "url": "https://fastly.jsdelivr.net/gh/1072103612/eggtv@main/tvbox_config.json",
-            "name": "eggtv-tvbox"
-        },
-        {
-            "url": "https://fastly.jsdelivr.net/gh/1072103612/eggtv@main/playback_candidates_tvbox.json",
-            "name": "eggtv-jsm_tvbox"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/BP3388/TVBOX@main/tvbox",
@@ -2193,12 +2177,12 @@
             "name": "zengjian03_aowu"
         },
         {
-            "name": "CandyMu📚在线",
-            "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json"
-        },
-        {
             "url": "https://fastly.jsdelivr.net/gh/gzp007/TVBox@main/tvbox1.json",
             "name": "gzp007_tvbox1"
+        },
+        {
+            "name": "CandyMu📚在线",
+            "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json"
         },
         {
             "name": "MY要要",
@@ -2245,6 +2229,14 @@
             "name": "saajnn-index2"
         },
         {
+            "url": "https://fastly.jsdelivr.net/gh/1072103612/eggtv@main/jsm_backup.json",
+            "name": "eggtv-jsm_backup"
+        },
+        {
+            "url": "https://fastly.jsdelivr.net/gh/1072103612/eggtv@main/playback_candidates_jsm.json",
+            "name": "eggtv-jsm_jsm"
+        },
+        {
             "url": "https://fastly.jsdelivr.net/gh/debaters6/XYQ@master/XBPQ.json",
             "name": "高天流云 XBPQ"
         },
@@ -2261,20 +2253,8 @@
             "name": "guxiangbin-月儿"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/1072103612/eggtv@main/jsm_backup.json",
-            "name": "eggtv-jsm_backup"
-        },
-        {
-            "url": "https://fastly.jsdelivr.net/gh/1072103612/eggtv@main/playback_candidates_jsm.json",
-            "name": "eggtv-jsm_jsm"
-        },
-        {
             "url": "https://fastly.jsdelivr.net/gh/lubin776/tvbox@main/0/x4.json",
             "name": "lubin776_x4"
-        },
-        {
-            "url": "https://fastly.jsdelivr.net/gh/lubin776/tvbox@main/0/x4b.json",
-            "name": "lubin776_x4b"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/lubin776/tvbox@main/0/x4c.json",
@@ -2317,16 +2297,8 @@
             "name": "MrArven_api"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/aa3151036158/tvbox-config@main/output/4k.json",
-            "name": "aa3151036158_4k"
-        },
-        {
             "url": "https://fastly.jsdelivr.net/gh/wokaotianshi123/tvtg@main/南风/api.json",
             "name": "南风"
-        },
-        {
-            "url": "https://fastly.jsdelivr.net/gh/gitbochs/tvbox_url@main/config_50sites.json",
-            "name": "gitbochs_50sites"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/aliang8886/qihe-tvbox@main/启禾影视.json",
@@ -2377,6 +2349,10 @@
             "name": "saulxxx_l3"
         },
         {
+            "url": "https://fastly.jsdelivr.net/gh/guxiangbin/tvbox2@main/业余阿里.txt",
+            "name": "guxiangbin-业余阿里"
+        },
+        {
             "url": "https://fastly.jsdelivr.net/gh/ZhouQuanJing/tvbox65-franksun1211@main/CKS2026.json",
             "name": "ZhouQuanJing_CKS2026"
         },
@@ -2410,6 +2386,10 @@
         },
         {
             "url": "https://play.iptv365.org/少儿频道/api.json",
+            "name": "少儿频道"
+        },
+        {
+            "url": "https://fastly.jsdelivr.net/gh/wokaotianshi123/tvtg@main/少儿频道/api.json",
             "name": "少儿频道"
         },
         {
