@@ -89,12 +89,12 @@ FALLBACK_URLS = [
 
 # 固定线路列表（将添加到结果数组开头）
 FIXED_LINES = [
-    {"url": "https://gh-proxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/饭太硬/api.json", 
-    "name": "饭太硬"},
+    {"url": "https://gh-proxy.com/https://raw.githubusercontent.com/xiqiliuse/tvbox/main/tvbox/tvbox.json", 
+    "name": "Neil"},
     {"url": "https://gh-proxy.com/https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/main/output/单仓聚合.json",
     "name": "Lightconer"},
-    {"url": "https://gh-proxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/摸鱼儿/api.json",
-    "name": "摸鱼儿"}
+    {"url": "https://ofind.cn/juhe-subhub/tvbox.json",
+    "name": "juhe-subhub"}
 ]
 
 
